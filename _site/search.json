@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi there!",
+    "section": "",
+    "text": "Meta-researcher, Postdoc, Open Science Enthusiast, Reproducible Science Trainer, Statistician\nCyclist, Marathon Swimmer, Book Nerd, Coffee lover\nSwiss based - from Luxembourg"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Freuli F, Held L, Heyard R (2022). “Replication success under questionable research practices - a simulation study.” MetaArXiv Preprints. doi.\nHeyard R, Ott M, Salanti G, Egger M (2022). “Rethinking the Funding Line at the Swiss National Science Foundation: Bayesian Ranking and Lottery.” Statistics and Public Policy, 1-12. doi.\nHeyard R, Held L (2022). “When should data and code be made available?” Signif. (Oxf.), 19(2), 4-5. doi.\nHeyard R, Philipp T, Hottenrott H (2021). “Imaginary carrot or effective fertiliser? A rejoinder on funding and productivity.” Scientometrics. doi.\nBieri M, Roser K, Heyard R, Egger M (2021). “Face-to-face panel meetings versus remote evaluation of fellowship applications: simulation study at the Swiss National Science Foundation.” BMJ Open, 11(5), e047386. doi.\nHeyard R, Hottenrott H (2021). “The value of research funding for knowledge creation and dissemination: A study of SNSF Research Grants.” Humanities and Social Sciences Communications. doi.\nSeverin A, Martins J, Heyard R, Delavy F, Jorstad A, Egger M (2020). “Gender and other potential biases in peer review: cross-sectional analysis of 38 250 external peer review reports.” BMJ Open, 10(8), e035058. doi.\nHeyard R, Timsit J, Held L, others (2020). “Validation of discrete time‐to‐event prediction models in the presence of competing risks.” Biometrical Journal. doi.\nHeyard R, Timsit J, Essaied WI, Held L, others (2019). “Dynamic clinical prediction models for discrete time‐to‐event data with competing risks-A case study on the OUTCOMEREA database.” Biom. J.. doi.\nHeyard R, Held L (2019). “The quantile probability model.” Comput. Stat. Data Anal.. doi.\nJensen KO, Heyard R, Schmitt D, Mica L, Ossendorf C, Simmen HP, Wanner GA, Werner CML, Held L, Sprengel K (2019). “Which pre-hospital triage parameters indicate a need for immediate evaluation and treatment of severely injured patients in the resuscitation area?” Eur. J. Trauma Emerg. Surg., 45(1), 91-98."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Postdoctoral Fellow at the Center for Reproducible Science at the University of Zurich (UZH). I am interested in Meta-research, Reproducibility, Open Science, and in improving research evaluation.\nI teach Good Research Practices to PhD Students and other postdocs at the UZH Graduate Campus.\nBefore join the CRS, I worked as a statistician in the Data Team of the Swiss National Science Foundation.\nAnd before, in January 2019, that I defended my PhD in the “Epidemiology and Biostatistics” Structured PhD Program.\nI am also a board member of the Swiss Statistical Society and a co-organizer of the Zurich R User Group."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks and Outreach",
+    "section": "",
+    "text": "TBA"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "…of topic",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html#whats-meta-research",
+    "href": "about.html#whats-meta-research",
+    "title": "About",
+    "section": "What’s Meta-Research?",
+    "text": "What’s Meta-Research?\nMeta-research has been defined as the interdisciplinary study of research itself (link). Sounds pretty meta, right?"
+  },
+  {
+    "objectID": "about.html#whats-wrong-with-research-evaluation",
+    "href": "about.html#whats-wrong-with-research-evaluation",
+    "title": "About",
+    "section": "What’s wrong with research evaluation?",
+    "text": "What’s wrong with research evaluation?\nWell, where should I start? In short, funding and hiring decisions in research are based on peer review. However, peer review has been shown to be inefficient, biased and unreliable. A good resource to start reading up on what’s wrong with (grant) peer review is Guthrie et al. (2018). On top of that there is a misalignment between the evaluation criteria used by funding bodies, most often emphasising quantity of publications/citations over quality of research, and the desired outcome = good, transparent and reproducible research."
+  },
+  {
+    "objectID": "about.html#what-is-meta-research",
+    "href": "about.html#what-is-meta-research",
+    "title": "About",
+    "section": "What is Meta-Research?",
+    "text": "What is Meta-Research?\nMeta-research has been defined as the interdisciplinary study of research itself (link). Sounds pretty meta, right?"
+  }
+]

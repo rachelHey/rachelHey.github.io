@@ -1,0 +1,23 @@
+---
+title: "About"
+---
+
+## Who am I?
+
+* I am a Postdoctoral Fellow at the [Center for Reproducible Science](https://www.crs.uzh.ch/en.html) at the University of Zurich (UZH). I am interested in Meta-research, Reproducibility, Open Science, and in improving research evaluation.
+
+* I teach Good Research Practices to PhD Students and other postdocs at the UZH Graduate Campus.
+
+* Before join the CRS, I worked as a statistician in the Data Team of the [Swiss National Science Foundation](https://www.snf.ch/).
+
+* And before, in January 2019, that I defended my PhD in the ["Epidemiology and Biostatistics" Structured PhD Program](https://www.epibiostat-phd.uzh.ch/en.html). 
+
+* I am also a board member of the [Swiss Statistical Society](https://stat.ch/en/) and a co-organizer of the [Zurich R User Group](https://www.meetup.com/zurich-r-user-group/).
+
+## What is Meta-Research? 
+
+Meta-research has been defined as the interdisciplinary study of research itself ([link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005468)). Sounds pretty meta, right? 
+
+## What's wrong with research evaluation?
+
+Well, where should I start? In short, funding and hiring decisions in research are based on peer review. However, peer review has been shown to be inefficient, biased and unreliable. A good resource to start reading up on what's wrong with (grant) peer review is [Guthrie et al. (2018)](https://f1000research.com/articles/6-1335/v2). On top of that there is a misalignment between the evaluation criteria used by funding bodies, most often emphasising quantity of publications/citations over quality of research, and the desired outcome = good, transparent and reproducible research. 

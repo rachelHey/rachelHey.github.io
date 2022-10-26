@@ -1,0 +1,7 @@
+---
+title: "Publications"
+---
+
+```{r echo=FALSE, results='asis'}
+bibtex::read.bib("publications.bib")
+```
