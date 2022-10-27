@@ -2,9 +2,8 @@
 title: "Talks and Outreach"
 ---
 
-| Date | Event | Location | Title | Slides |
-|------|-------|----------|-------|--------|
-| 07.10.2022 | BioMed PhD Day | Lugano (CH) | Simple Rules for Good Research Practice | [osf.io/3dyr9](https://osf.io/3dyr9) |
-| 21.09.2022 | UniNE CUSO open science workshop| Neuchatel (CH) | Best practices in statistical design and reporting | [osf.io/aqj7r](https://osf.io/aqj7r) |
-| 09.09.2022 | International Congress on Peer Review and Scientific Publication | Chicago (US) | A Bayesian Approach to Reduce Bias in the Ranking of Peer-Reviewed Grant Proposals Submitted to the Swiss National Science Foundation | [rachelhey.github.io/talks/BR_chicago](https://rachelhey.github.io/talks/BR_chicago/#1) |
-
+| Date       | Event                                                            | Location       | Title                                                                                                                                 | Slides                                                                                  |
+|------------|------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| 07.10.2022 | BioMed PhD Day                                                   | Lugano (CH)    | Simple Rules for Good Research Practice                                                                                               | [osf.io/3dyr9](https://osf.io/3dyr9)                                                    |
+| 21.09.2022 | UniNE CUSO open science workshop                                 | Neuchatel (CH) | Best practices in statistical design and reporting                                                                                    | [osf.io/aqj7r](https://osf.io/aqj7r)                                                    |
+| 09.09.2022 | International Congress on Peer Review and Scientific Publication | Chicago (US)   | A Bayesian Approach to Reduce Bias in the Ranking of Peer-Reviewed Grant Proposals Submitted to the Swiss National Science Foundation | [rachelhey.github.io/talks/BR_chicago](https://rachelhey.github.io/talks/BR_chicago/#1) |
