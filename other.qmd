@@ -2,4 +2,16 @@
 title: "Two wheels and lakes"
 ---
 
-TBA
+I *love* cycling and open water swimming. I recently started competing on bike races, mainly granfondos, and did my first Marathon Swim in July 2022:  [The International Swim across Lake Geneva](https://www.lgsa.com/en/classique).
+
+::: {#cycling-lina layout-ncol=2}
+
+![Alpenchallenge 2022](images/alpenchallenge1.jpg)
+
+![Alpenchallenge 2022](images/alpenchallenge2.jpg)
+
+![Chasing Cancellara](images/chasing_cancellara.jpg)
+
+![My bike "Pünktchen" at Lake Constance](images/punktchen.jpg)
+
+:::

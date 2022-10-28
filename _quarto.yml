@@ -17,9 +17,7 @@ website:
           - publications.qmd
           - talks.qmd
           - software.qmd
-      - section: "**......**"
-        contents:
-          - other.qmd
+      - other.qmd
 
 format:
   html:

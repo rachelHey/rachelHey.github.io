@@ -4,14 +4,14 @@
     "href": "talks.html",
     "title": "Talks and Outreach",
     "section": "",
-    "text": "Date\nEvent\nLocation\nTitle\nSlides\n\n\n\n\n07.10.2022\nBioMed PhD Day\nLugano (CH)\nSimple Rules for Good Research Practice\nosf.io/3dyr9\n\n\n21.09.2022\nUniNE CUSO open science workshop\nNeuchatel (CH)\nBest practices in statistical design and reporting\nosf.io/aqj7r\n\n\n09.09.2022\nInternational Congress on Peer Review and Scientific Publication\nChicago (US)\nA Bayesian Approach to Reduce Bias in the Ranking of Peer-Reviewed Grant Proposals Submitted to the Swiss National Science Foundation\nrachelhey.github.io/talks/BR_chicago"
+    "text": "Date\nEvent\nLocation\nTitle\nSlides\n\n\n\n\n07.10.2022\nBioMed PhD Day\nLugano (CH)\nSimple Rules for Good Research Practice\nosf.io/3dyr9\n\n\n21.09.2022\nUniNE CUSO open science workshop\nNeuchatel (CH)\nBest practices in statistical design and reporting\nosf.io/aqj7r\n\n\n09.09.2022\nInternational Congress on Peer Review and Scientific Publication\nChicago (US)\nA Bayesian Approach to Reduce Bias in the Ranking of Peer-Reviewed Grant Proposals Submitted to the Swiss National Science Foundation\nrachelhey.github.io/talks/BR_chicago\n\n\n29.09.2021\nMeeting of the UNECE Group of Experts on Gender Statistics 2021\nOnline\nCommunicating the effect of gender in research funding, during lockdown and beyond\nunece.org/…"
   },
   {
     "objectID": "other.html",
     "href": "other.html",
     "title": "Two wheels and lakes",
     "section": "",
-    "text": "TBA"
+    "text": "Alpenchallenge 2022\n\n\n\n\n\n\n\nAlpenchallenge 2022\n\n\n\n\n\n\n\n\n\nChasing Cancellara\n\n\n\n\n\n\n\nMy bike “Pünktchen” at Lake Constance"
   },
   {
     "objectID": "about.html",
@@ -47,5 +47,12 @@
     "title": "Hi there!",
     "section": "",
     "text": "Meta-researcher, Postdoc, Open Science Enthusiast, Reproducible Science Trainer, Statistician\nCyclist, Marathon Swimmer, Book Nerd, Coffee lover\nSwiss based - from Luxembourg"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "The Bayesian Ranking methodology presented in Heyard et al. (2022) was implemented in an R-package ERforResearch available from github. The online supplement of the paper explains how to use the package to reproduce the results from the paper."
   }
 ]
