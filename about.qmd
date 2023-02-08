@@ -8,7 +8,7 @@ title: "About"
 
   * I teach [Good Research Practices](https://www.crs.uzh.ch/en/training/GoodResearchPractice.html) to PhD Students and other postdocs at the UZH Graduate Campus.
   * I organize the CRS [ReproducibiliTea Journal Club](https://www.crs.uzh.ch/en/training/ReproducibiliTea.html).  
-  * I am interested in Meta-research, Reproducibility, Open Science and Data, incentives for Good Research Practice and research software engineering. I generally want to make research more reproducible and in improving research evaluation!
+  * I am interested in Meta-research, Reproducibility, Open Science and Data, incentives for Good Research Practice and research software engineering. I generally want to make research more reproducible and improve research evaluation!
 
 * Before join the CRS, I worked as a statistician in the Data Team of the [Swiss National Science Foundation](https://www.snf.ch/).
 
