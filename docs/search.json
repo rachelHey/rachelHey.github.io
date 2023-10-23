@@ -5,5 +5,110 @@
     "title": "Hi there!",
     "section": "",
     "text": "Rachel Heyard, PhD\nMeta-researcher, Postdoc, Open Science Enthusiast, Reproducible Science Trainer, Statistician\nCyclist, Marathon Swimmer, Book Nerd, Coffee lover\nSwiss based - from Luxembourg"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Postdoctoral Fellow at the Center for Reproducible Science (CRS) at the University of Zurich (UZH).\n\nI teach Good Research Practices to PhD Students and other postdocs at the UZH Graduate Campus.\nI organize the CRS ReproducibiliTea Journal Club.\n\nI am interested in meta-research, Reproducibility, Open Science and Data, incentives for Good Research Practice and research software engineering. I generally want to make research more reproducible and improve research evaluation!\n\nBefore joining the CRS, I worked as a statistician in the Data Team of the Swiss National Science Foundation.\nAnd before that, in January 2019, I defended my PhD in the “Epidemiology and Biostatistics” Structured PhD Program.\nI am also a board member of the Swiss Statistical Society and a co-organizer of the Zurich R User Group."
+  },
+  {
+    "objectID": "about.html#who-am-i",
+    "href": "about.html#who-am-i",
+    "title": "About",
+    "section": "",
+    "text": "I am a Postdoctoral Fellow at the Center for Reproducible Science (CRS) at the University of Zurich (UZH).\n\nI teach Good Research Practices to PhD Students and other postdocs at the UZH Graduate Campus.\nI organize the CRS ReproducibiliTea Journal Club.\n\nI am interested in meta-research, Reproducibility, Open Science and Data, incentives for Good Research Practice and research software engineering. I generally want to make research more reproducible and improve research evaluation!\n\nBefore joining the CRS, I worked as a statistician in the Data Team of the Swiss National Science Foundation.\nAnd before that, in January 2019, I defended my PhD in the “Epidemiology and Biostatistics” Structured PhD Program.\nI am also a board member of the Swiss Statistical Society and a co-organizer of the Zurich R User Group."
+  },
+  {
+    "objectID": "about.html#what-is-meta-research",
+    "href": "about.html#what-is-meta-research",
+    "title": "About",
+    "section": "What is Meta-Research?",
+    "text": "What is Meta-Research?\nMeta-research has been defined as the interdisciplinary study of research itself (link). Sounds pretty meta, right?"
+  },
+  {
+    "objectID": "about.html#whats-wrong-with-research-evaluation",
+    "href": "about.html#whats-wrong-with-research-evaluation",
+    "title": "About",
+    "section": "What’s wrong with research evaluation?",
+    "text": "What’s wrong with research evaluation?\nWell, where should I start? In short, funding and hiring decisions in research are based on peer review. However, peer review has been shown to be inefficient, biased and unreliable. A good resource to start reading up on what’s wrong with (grant) peer review is Guthrie et al. (2018). On top of that there is a misalignment between the evaluation criteria used by funding bodies, which often emphasis quantity of publications/citations over quality of research, and the desired outcome which should be “good, transparent and reproducible research”. We therefore need alternative criteria for excellence that align with Good Research Practice and need to acknowledge the bias and uncertainty in peer review when making funding decisions."
+  },
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Two wheels and lakes",
+    "section": "",
+    "text": "I love cycling and open water swimming. I recently started competing in bike races, mainly Granfondos, and did my first Marathon Swim in July 2022: The International Swim across Lake Geneva.\n\n\n\n\n\n\nAlpenchallenge 2022\n\n\n\n\n\n\n\nAlpenchallenge 2022\n\n\n\n\n\n\n\n\n\nChasing Cancellara\n\n\n\n\n\n\n\nMy bike “Pünktchen” at Lake Constance"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks and Outreach",
+    "section": "",
+    "text": "Date\nEvent\nLocation\nTitle\nSlides\n\n\n\n\n08.02.2023\nPeer Review under Review, ESO Workshop\nGarching bei München (DE)\nLet’s talk about uncertainty in funding allocation\nosf.io/3r7et\n\n\n07.10.2022\nBioMed PhD Day\nLugano (CH)\nSimple Rules for Good Research Practice\nosf.io/3dyr9\n\n\n21.09.2022\nUniNE CUSO open science workshop\nNeuchatel (CH)\nBest practices in statistical design and reporting\nosf.io/aqj7r\n\n\n09.09.2022\nInternational Congress on Peer Review and Scientific Publication\nChicago (US)\nA Bayesian Approach to Reduce Bias in the Ranking of Peer-Reviewed Grant Proposals Submitted to the Swiss National Science Foundation\nrachelhey.github.io/talks/BR_chicago\n\n\n06.04.2022\nLunch and Learn Open Science\nOnline\nOpen and FAIR Data\nwww.ub.uzh.ch/…\n\n\n29.09.2021\nMeeting of the UNECE Group of Experts on Gender Statistics 2021\nOnline\nCommunicating the effect of gender in research funding, during lockdown and beyond\nunece.org/…"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "ERforResearch R-package\nThe Bayesian Ranking methodology presented in Heyard et al. (2022) was implemented in an R-package ERforResearch available from github. The online supplement of the paper explains how to use the package to reproduce the results from the paper."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "From September 2023 on, I will be part of this larger project funded through HORIZON Europe. The aim of iRISE is to understand the drivers of irreproducibility, and present and test specific interventions to increase the quality, reliability and reusability of scientific evidence. I am co-leading Work Package 1 which will condense the current understanding of different types of reproducibility and build on current knowledge to find the best metrics to quantify or measure those same types of reproducibility. I will further be involved in and lead sub-tasks of other work packages. For example will I ensure that all studies done by the iRISE consortium to test interventions will be designed in a consistent way and have preregistered study protocols. I will also supervise the systematic updating of the projects data management plan.\n\n\n\ntba"
+  },
+  {
+    "objectID": "projects.html#irise-improving-reproducibility-in-science",
+    "href": "projects.html#irise-improving-reproducibility-in-science",
+    "title": "Research Projects",
+    "section": "",
+    "text": "From September 2023 on, I will be part of this larger project funded through HORIZON Europe. The aim of iRISE is to understand the drivers of irreproducibility, and present and test specific interventions to increase the quality, reliability and reusability of scientific evidence. I am co-leading Work Package 1 which will condense the current understanding of different types of reproducibility and build on current knowledge to find the best metrics to quantify or measure those same types of reproducibility. I will further be involved in and lead sub-tasks of other work packages. For example will I ensure that all studies done by the iRISE consortium to test interventions will be designed in a consistent way and have preregistered study protocols. I will also supervise the systematic updating of the projects data management plan."
+  },
+  {
+    "objectID": "projects.html#sirro-strengthen-the-interoperability-and-reusability-of-research-outputs",
+    "href": "projects.html#sirro-strengthen-the-interoperability-and-reusability-of-research-outputs",
+    "title": "Research Projects",
+    "section": "",
+    "text": "tba"
+  },
+  {
+    "objectID": "projects.html#meta-regression-and-heterogeneity",
+    "href": "projects.html#meta-regression-and-heterogeneity",
+    "title": "Research Projects",
+    "section": "Meta-regression and heterogeneity",
+    "text": "Meta-regression and heterogeneity\ntba"
+  },
+  {
+    "objectID": "projects.html#msca-consensus-meeting-and-bayesian-ranking-recommendation",
+    "href": "projects.html#msca-consensus-meeting-and-bayesian-ranking-recommendation",
+    "title": "Research Projects",
+    "section": "MSCA consensus meeting and Bayesian Ranking Recommendation",
+    "text": "MSCA consensus meeting and Bayesian Ranking Recommendation\ntba"
+  },
+  {
+    "objectID": "projects.html#study-of-authors-data-availability-responses-sadar",
+    "href": "projects.html#study-of-authors-data-availability-responses-sadar",
+    "title": "Research Projects",
+    "section": "Study of Authors’ Data Availability Responses (SADAR)",
+    "text": "Study of Authors’ Data Availability Responses (SADAR)\ntba"
+  },
+  {
+    "objectID": "projects.html#replication-success-under-questionable-research-practices",
+    "href": "projects.html#replication-success-under-questionable-research-practices",
+    "title": "Research Projects",
+    "section": "Replication Success under questionable research practices",
+    "text": "Replication Success under questionable research practices\ntba"
+  },
+  {
+    "objectID": "community.html",
+    "href": "community.html",
+    "title": "Community engagement",
+    "section": "",
+    "text": "Swiss RN and COARA\ntba\n\n\nSwiss Statistical Society\nBoard member - initiated project (?)\n\n\nZurich R User Group\nOrganizing team\n\n\nPeer Review Workbench\non the steering committee"
   }
 ]
