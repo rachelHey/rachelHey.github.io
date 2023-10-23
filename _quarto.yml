@@ -26,9 +26,10 @@ website:
 
 format:
   html:
-    theme: yeti
-    css: styles.css
+    # theme: yeti
+    css: styles.scss
     toc: true
 
-editor: visual
+
+# editor: visual
 

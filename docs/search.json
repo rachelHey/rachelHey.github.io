@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Hi there!",
     "section": "",
-    "text": "Rachel Heyard, PhD\nMeta-researcher, Postdoc, Open Science Enthusiast, Reproducible Science Trainer, Statistician\nCyclist, Marathon Swimmer, Book Nerd, Coffee lover\nSwiss based - from Luxembourg"
+    "text": "Rachel Heyard, PhD\nMeta-researcher, Postdoc, Open Science Enthusiast, Reproducible Science Trainer, Statistician\nCyclist, Marathon Swimmer, Book Nerd, Coffee lover\nSwiss based - from Luxembourg\n\n \n  \n   \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Rachel Heyard"
   },
   {
     "objectID": "about.html",
@@ -110,5 +110,12 @@
     "title": "Community engagement",
     "section": "",
     "text": "Swiss RN and COARA\ntba\n\n\nSwiss Statistical Society\nBoard member - initiated project (?)\n\n\nZurich R User Group\nOrganizing team\n\n\nPeer Review Workbench\non the steering committee"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Turoman N, Heyard R, Schwab S, Furrer E, Vergauwe E, Held L (2022). “Constructing and implementing PRECHECK: A checklist to evaluate preprints on COVID-19 and beyond.” MetaArXiv Preprints. doi.\nFreuli F, Held L, Heyard R (2022). “Replication success under questionable research practices - a simulation study.” MetaArXiv Preprints. doi.\nHeyard R, Ott M, Salanti G, Egger M (2022). “Rethinking the Funding Line at the Swiss National Science Foundation: Bayesian Ranking and Lottery.” Statistics and Public Policy, 1-12. doi.\nHeyard R, Held L (2022). “When should data and code be made available?” Signif. (Oxf.), 19(2), 4-5. doi.\nHeyard R, Philipp T, Hottenrott H (2021). “Imaginary carrot or effective fertiliser? A rejoinder on funding and productivity.” Scientometrics. doi.\nBieri M, Roser K, Heyard R, Egger M (2021). “Face-to-face panel meetings versus remote evaluation of fellowship applications: simulation study at the Swiss National Science Foundation.” BMJ Open, 11(5), e047386. doi.\nHeyard R, Hottenrott H (2021). “The value of research funding for knowledge creation and dissemination: A study of SNSF Research Grants.” Humanities and Social Sciences Communications. doi.\nSeverin A, Martins J, Heyard R, Delavy F, Jorstad A, Egger M (2020). “Gender and other potential biases in peer review: cross-sectional analysis of 38 250 external peer review reports.” BMJ Open, 10(8), e035058. doi.\nHeyard R, Timsit J, Held L, others (2020). “Validation of discrete time‐to‐event prediction models in the presence of competing risks.” Biometrical Journal. doi.\nHeyard R, Timsit J, Essaied WI, Held L, others (2019). “Dynamic clinical prediction models for discrete time‐to‐event data with competing risks-A case study on the OUTCOMEREA database.” Biom. J.. doi.\nHeyard R, Held L (2019). “The quantile probability model.” Comput. Stat. Data Anal.. doi.\nJensen KO, Heyard R, Schmitt D, Mica L, Ossendorf C, Simmen HP, Wanner GA, Werner CML, Held L, Sprengel K (2019). “Which pre-hospital triage parameters indicate a need for immediate evaluation and treatment of severely injured patients in the resuscitation area?” Eur. J. Trauma Emerg. Surg., 45(1), 91-98."
   }
 ]
