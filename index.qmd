@@ -1,21 +1,23 @@
 ---
 title: "Hi there!"
-image: rachel.jpg
+image: heyard_rachel.jpg
+format: 
+  html: 
+    toc: false
 about: 
   template: jolla
   image-shape: rounded
   image-width: 15em
   links:
-    - text: Twitter
-      href: https://twitter.com/rachelheyR
-    - text: GitHub
-      href: https://github.com/rachelHey
     - text: LinkedIn
       href: https://www.linkedin.com/in/rachel-heyard-3145aa91/
+    # - text: Twitter
+    #   href: https://twitter.com/rachelheyR
+    - text: GitHub
+      href: https://github.com/rachelHey
     - text: Email
       href: mailto:rachel.heyard@uzh.ch
 ---
-
 # Rachel Heyard, PhD
 
 Meta-researcher, Postdoc, Open Science Enthusiast, Reproducible Science Trainer, Statistician

@@ -1,5 +1,6 @@
 project: 
   type: website
+  output-dir: docs
 
       
 website:
@@ -12,7 +13,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - projects.qmd
+      - section: "**Project**"
+        contents: 
+          - projects.qmd
+          - community.qmd
       - section: "**Research Outputs**"
         contents:
           - publications.qmd

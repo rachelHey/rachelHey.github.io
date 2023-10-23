@@ -1,5 +1,33 @@
 ---
-title: "Projects"
+title: "Research Projects"
 ---
 
-## ... to be added. :) 
+
+# Funded Research Projects 
+
+## iRISE: improving Reproducibility In SciencE 
+
+From September 2023 on, I will be part of this larger project funded through HORIZON Europe. The aim of iRISE is to understand the drivers of irreproducibility, and present and test specific interventions to increase the quality, reliability and reusability of scientific evidence. I am co-leading Work Package 1 which will condense the current understanding of different types of reproducibility and build on current knowledge to find the best metrics to quantify or measure those same types of reproducibility. I will further be involved in and lead sub-tasks of other work packages. For example will I ensure that all studies done by the iRISE consortium to test interventions will be designed in a consistent way and have preregistered study protocols. I will also supervise the systematic updating of the projects data management plan. 
+
+## SIRRO: Strengthen the Interoperability and Reusability of Research Outputs 
+tba
+
+# Other Research Projects 
+
+## Meta-regression and heterogeneity
+tba
+
+## MSCA consensus meeting and Bayesian Ranking Recommendation 
+
+tba
+
+
+## Study of Authors' Data Availability Responses (SADAR)
+
+tba
+
+## Replication Success under questionable research practices
+
+tba
+
+
