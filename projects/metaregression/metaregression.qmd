@@ -1,0 +1,8 @@
+---
+title: "Heterogeneity in replication projects"
+description: "Using methodology from meta-analysis the project aims at quantifying and explaining the amount of heterogeneity in two different use cases."
+# image: ".jpg"
+format: 
+  html: 
+    toc: false
+---

@@ -13,10 +13,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - section: "**Project**"
+      - section: "**Projects**"
         contents: 
-          - projects.qmd
-          - community.qmd
+          - projects/projects.qmd
+          # - community.qmd
       - section: "**Research Outputs**"
         contents:
           - publications.qmd

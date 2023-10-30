@@ -1,0 +1,8 @@
+---
+title: "SADAR: Study of Authors' Data Availability Responses"
+description: "The goal of the study is to scrutinize the data and code availability statements from published literatute."
+# image: "preprints.jpg"
+format: 
+  html: 
+    toc: false
+---

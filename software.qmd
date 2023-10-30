@@ -1,5 +1,8 @@
 ---
 title: "Software"
+format: 
+  html: 
+    toc: false
 ---
 # ERforResearch R-package
 

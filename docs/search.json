@@ -117,5 +117,89 @@
     "title": "Publications",
     "section": "",
     "text": "Heyard R, Held L, Schneeweiss S, Wang SV (2023). “Design differences explain variation in results between randomized trials and their non-randomized emulations.” medRxiv. doi.\nPawel S, Heyard R, Micheloud C, Held L (2023). “Replication of ‘null results’ - Absence of evidence or evidence of absence?” arXiv, to appear in elife. doi.\nTuroman N, Heyard R, Schwab S, Furrer E, Vergauwe E, Held L (2023). “Constructing and implementing PRECHECK: A checklist to evaluate preprints on COVID-19 and beyond.” F1000Research, 122(588). doi.\nFreuli F, Held L, Heyard R (2022). “Replication success under questionable research practices - a simulation study.” MetaArXiv, to appear in Statistical Science. doi.\nHeyard R, Ott M, Salanti G, Egger M (2022). “Rethinking the Funding Line at the Swiss National Science Foundation: Bayesian Ranking and Lottery.” Statistics and Public Policy, 1-12. doi.\nHeyard R, Held L (2022). “When should data and code be made available?” Signif. (Oxf.), 19(2), 4-5. doi.\nHeyard R, Philipp T, Hottenrott H (2021). “Imaginary carrot or effective fertiliser? A rejoinder on funding and productivity.” Scientometrics. doi.\nBieri M, Roser K, Heyard R, Egger M (2021). “Face-to-face panel meetings versus remote evaluation of fellowship applications: simulation study at the Swiss National Science Foundation.” BMJ Open, 11(5), e047386. doi.\nHeyard R, Hottenrott H (2021). “The value of research funding for knowledge creation and dissemination: A study of SNSF Research Grants.” Humanities and Social Sciences Communications. doi.\nSeverin A, Martins J, Heyard R, Delavy F, Jorstad A, Egger M (2020). “Gender and other potential biases in peer review: cross-sectional analysis of 38 250 external peer review reports.” BMJ Open, 10(8), e035058. doi.\nHeyard R, Timsit J, Held L, others (2020). “Validation of discrete time‐to‐event prediction models in the presence of competing risks.” Biometrical Journal. doi.\nHeyard R, Timsit J, Essaied WI, Held L, others (2019). “Dynamic clinical prediction models for discrete time‐to‐event data with competing risks-A case study on the OUTCOMEREA database.” Biom. J.. doi.\nHeyard R, Held L (2019). “The quantile probability model.” Comput. Stat. Data Anal.. doi.\nJensen KO, Heyard R, Schmitt D, Mica L, Ossendorf C, Simmen HP, Wanner GA, Werner CML, Held L, Sprengel K (2019). “Which pre-hospital triage parameters indicate a need for immediate evaluation and treatment of severely injured patients in the resuscitation area?” Eur. J. Trauma Emerg. Surg., 45(1), 91-98."
+  },
+  {
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "Funded Projects\nCurrently, I am involved in two larger and funded projects:\n\n\n\n\n\n\n\n\n\n\niRISE: improving Reproducibility In SciencE\n\n\nThe aim of iRISE is to understand the drivers of irreproducibility, and present and test specific interventions to increase the quality, reliability and reusability of scientific evidence. iRISE is a Horizon Europe consortium.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSIRRO: Strengthen the interoperability and reusability of research outputs\n\n\nSIRRO is a collaborative project by the Swiss Reproducibility project funded by swissuniversity Swiss Open Research Data Grants program Track A, August 2022.\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\nTransparency and reprodcibility\n\n\n\n\n\n\n\nHeterogeneity in replication projects\n\n\nUsing methodology from meta-analysis the project aims at quantifying and explaining the amount of heterogeneity in two different use cases.\n\n\n\n\n\n\n\n\n\n\nSADAR: Study of Authors’ Data Availability Responses\n\n\nThe goal of the study is to scrutinize the data and code availability statements from published literatute.\n\n\n\n\n\n\n\n\n\n\nQuantifying replication success\n\n\nThrough the Center for Reproducible Science I also got the chance to collaborate on projects related to quantifying or assessing replication success.\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\nEvaluation and research quality\n\n\n\n\n\n\n\n\n\n\nRethinking the research funding allocation process\n\n\nI am interested in improving the way research funding is allocated to researchers or research projects. More specifically, I aim at finding ways to acknowledge uncertainty in funding allocations.\n\n\n\n\n\n\n\n\n\n\n\n\n\nPRECHECK: A checklist to evaluate COVID-19 preprints\n\n\nThe aim of the project is to provide simple and clear guidance in the form of a checklist as well as by training to assess the quality and credibility of a scientific preprint.\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/projects.html#irise-improving-reproducibility-in-science",
+    "href": "projects/projects.html#irise-improving-reproducibility-in-science",
+    "title": "Research Projects",
+    "section": "",
+    "text": "From September 2023 on, I will be part of this larger project funded through HORIZON Europe. The aim of iRISE is to understand the drivers of irreproducibility, and present and test specific interventions to increase the quality, reliability and reusability of scientific evidence. I am co-leading Work Package 1 which will condense the current understanding of different types of reproducibility and build on current knowledge to find the best metrics to quantify or measure those same types of reproducibility. I will further be involved in and lead sub-tasks of other work packages. For example will I ensure that all studies done by the iRISE consortium to test interventions will be designed in a consistent way and have preregistered study protocols. I will also supervise the systematic updating of the projects data management plan."
+  },
+  {
+    "objectID": "projects/projects.html#sirro-strengthen-the-interoperability-and-reusability-of-research-outputs",
+    "href": "projects/projects.html#sirro-strengthen-the-interoperability-and-reusability-of-research-outputs",
+    "title": "Research Projects",
+    "section": "SIRRO: Strengthen the Interoperability and Reusability of Research Outputs",
+    "text": "SIRRO: Strengthen the Interoperability and Reusability of Research Outputs\ntba"
+  },
+  {
+    "objectID": "projects/projects.html#meta-regression-and-heterogeneity",
+    "href": "projects/projects.html#meta-regression-and-heterogeneity",
+    "title": "Research Projects",
+    "section": "Meta-regression and heterogeneity",
+    "text": "Meta-regression and heterogeneity\ntba"
+  },
+  {
+    "objectID": "projects/projects.html#msca-consensus-meeting-and-bayesian-ranking-recommendation",
+    "href": "projects/projects.html#msca-consensus-meeting-and-bayesian-ranking-recommendation",
+    "title": "Research Projects",
+    "section": "MSCA consensus meeting and Bayesian Ranking Recommendation",
+    "text": "MSCA consensus meeting and Bayesian Ranking Recommendation\ntba"
+  },
+  {
+    "objectID": "projects/projects.html#study-of-authors-data-availability-responses-sadar",
+    "href": "projects/projects.html#study-of-authors-data-availability-responses-sadar",
+    "title": "Research Projects",
+    "section": "Study of Authors’ Data Availability Responses (SADAR)",
+    "text": "Study of Authors’ Data Availability Responses (SADAR)\ntba"
+  },
+  {
+    "objectID": "projects/projects.html#replication-success-under-questionable-research-practices",
+    "href": "projects/projects.html#replication-success-under-questionable-research-practices",
+    "title": "Research Projects",
+    "section": "Replication Success under questionable research practices",
+    "text": "Replication Success under questionable research practices\ntba"
+  },
+  {
+    "objectID": "projects/projects.html#precheck",
+    "href": "projects/projects.html#precheck",
+    "title": "Research Projects",
+    "section": "PRECHECK",
+    "text": "PRECHECK"
+  },
+  {
+    "objectID": "projects/repro/repro.html",
+    "href": "projects/repro/repro.html",
+    "title": "Quantifying replication success",
+    "section": "",
+    "text": "Replication of “null results”\nPawel, S., Heyard, R., Micheloud, C., and Held, L. (2023). Replication of “null results” - Absence of evidence or evidence of absence? eLife (to appear). https://doi.org/10.48550/arXiv.2305.04587\n\n\nReplication success under questionable research practices\nFreuli, F., Held, L., and Heyard, R. (2023). Replication success under questionable research practices - a simulation study. Preprint. https://doi.org/10.31222/osf.io/s4b65"
+  },
+  {
+    "objectID": "projects/irise/irise.html",
+    "href": "projects/irise/irise.html",
+    "title": "iRISE: improving Reproducibility In SciencE",
+    "section": "",
+    "text": "The aim of iRISE is to understand the drivers of irreproducibility, and present and test specific interventions to increase the quality, reliability and reusability of scientific evidence. I am co-leading work-package 1 which will condense the current understanding of different types of reproducibility and build on current knowledge to find the best metrics to quantify or measure those same types of reproducibility."
+  },
+  {
+    "objectID": "projects/irise/irise.html#section",
+    "href": "projects/irise/irise.html#section",
+    "title": "iRISE: improving Reproducibility In SciencE",
+    "section": "",
+    "text": "From September 2023 on, I will be part of this larger project funded through HORIZON Europe. The aim of iRISE is to understand the drivers of irreproducibility, and present and test specific interventions to increase the quality, reliability and reusability of scientific evidence. I am co-leading Work Package 1 which will condense the current understanding of different types of reproducibility and build on current knowledge to find the best metrics to quantify or measure those same types of reproducibility. I will further be involved in and lead sub-tasks of other work packages. For example will I ensure that all studies done by the iRISE consortium to test interventions will be designed in a consistent way and have preregistered study protocols. I will also supervise the systematic updating of the projects data management plan."
+  },
+  {
+    "objectID": "projects/sirro/sirro.html",
+    "href": "projects/sirro/sirro.html",
+    "title": "SIRRO: Strengthen the interoperability and reusability of research outputs",
+    "section": "",
+    "text": "The project contains four parts or main objectives:\n\nAssessment of researchers’ understanding and perception of ORD practices across disciplines and their perceived impact on careers.\n\nAssessment of types of research outputs that are already produced and disciplinary differences herein.\n\nAssessment of hurdles and incentives for a community, here researchers in animal studies, to adopt preregistration and data management practices.\n\nDevelop and dispense appropriate training activities on preregistration, data management practices and good research practices in general.\n\nI recently presented very first results for the second objective (see above) at an event organized by two NCCRs (microbiom and antiresist) on “Open Access and th Revolution in Academic Publishing”. Find my slides below."
   }
 ]

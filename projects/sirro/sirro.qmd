@@ -1,0 +1,45 @@
+---
+title: "SIRRO: Strengthen the interoperability and reusability of research outputs"
+description: " [SIRRO](https://www.swissrn.org/grants/) is a collaborative project by the Swiss Reproducibility project funded by swissuniversity Swiss Open Research Data Grants program [Track A, August 2022](https://www.swissuniversities.ch/fileadmin/swissuniversities/Dokumente/Hochschulpolitik/ORD/Calls/Approved_Projects_Track_A_1st_Call.pdf)."
+image: "ord.jpg"
+engine: knitr
+slides:
+  pdf: "1_more2research_heyard.pdf"
+---
+
+-----
+
+The project contains four parts or main objectives:
+
+1. Assessment of researchers’ understanding and perception of ORD practices across disciplines and their perceived impact on careers.  
+2. Assessment of types of research outputs that are already produced and disciplinary differences herein.  
+3. Assessment of hurdles and incentives for a community, here researchers in animal studies, to adopt preregistration and data management practices.  
+4. Develop and dispense appropriate training activities on preregistration, data management practices and good research practices in general.
+
+I recently presented very first results for the second objective (see above) at an event organized by two NCCRs (microbiom and antiresist) on "Open Access and th Revolution in Academic Publishing". Find my slides below. 
+
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 49%;
+}
+```
+
+```{=html}
+<div class="embed-container">
+  <iframe src="`r rmarkdown::metadata$slides$pdf`" style="border: 0.5px"></iframe>
+</div>
+```

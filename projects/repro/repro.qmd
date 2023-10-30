@@ -1,0 +1,15 @@
+---
+title: "Quantifying replication success"
+description: "Through the Center for Reproducible Science I also got the chance to collaborate on projects related to quantifying or assessing replication success."
+# image: "preprints.jpg"
+format: 
+  html: 
+    toc: false
+---
+
+### Replication of "null results"
+Pawel, S., Heyard, R., Micheloud, C., and Held, L. (2023). Replication of "null results" - Absence of evidence or evidence of absence? eLife (to appear). https://doi.org/10.48550/arXiv.2305.04587
+
+### Replication success under questionable research practices
+
+Freuli, F., Held, L., and Heyard, R. (2023). Replication success under questionable research practices - a simulation study. Preprint. https://doi.org/10.31222/osf.io/s4b65

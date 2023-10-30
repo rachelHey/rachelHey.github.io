@@ -1,0 +1,66 @@
+---
+title: "Research Projects"
+format: 
+  html: 
+    toc: false
+listing: 
+  - id: funded
+    max-description-length: 500
+    image-height: 250px
+    fields: [image, title, description]
+    sort: false
+    contents: 
+      - irise
+      - sirro
+    type: grid
+    grid-item-border: false
+    grid-columns: 2
+  - id: transparency
+    max-description-length: 500
+    # image-height: 250px
+    sort: false
+    fields: [title, description]
+    contents: 
+      - metaregression
+      - sadar
+      - repro
+    type: grid
+    grid-item-border: false
+    grid-columns: 3
+  - id: evaluation
+    max-description-length: 500
+    image-height: 250px
+    sort: false
+    fields: [image, title, description]
+    contents: 
+      - ranking
+      - precheck
+    type: grid
+    grid-item-border: false
+    grid-columns: 2
+---
+
+
+### Funded Projects 
+
+Currently, I am involved in two larger and funded projects:
+
+::: {#funded}
+:::
+
+------ 
+
+### Transparency and reprodcibility
+
+::: {#transparency}
+:::
+
+
+------ 
+
+### Evaluation and research quality
+
+
+::: {#evaluation}
+:::
+

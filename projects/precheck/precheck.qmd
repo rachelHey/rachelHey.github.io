@@ -1,0 +1,8 @@
+---
+title: "PRECHECK: A checklist to evaluate COVID-19 preprints"
+description: "The aim of the project is to provide simple and clear guidance in the form of a checklist as well as by training to assess the quality and credibility of a scientific preprint."
+image: "preprints.jpg"
+format: 
+  html: 
+    toc: false
+---
