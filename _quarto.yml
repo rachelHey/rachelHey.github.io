@@ -16,7 +16,7 @@ website:
       - section: "**Projects**"
         contents: 
           - projects/projects.qmd
-          # - community.qmd
+          # - projects/outreach.qmd
       - section: "**Research Outputs**"
         contents:
           - publications.qmd
