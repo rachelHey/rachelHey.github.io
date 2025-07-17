@@ -22,7 +22,7 @@ website:
 format:
   html:
     # theme: yeti
-    css: styles.scss
+    css: styles.css
     toc: true
 
 
