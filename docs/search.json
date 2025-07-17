@@ -1,0 +1,82 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Training activities",
+    "section": "",
+    "text": "Early Career Reviewers\nA training module, including an guide and a workshop developed for early career researchers to empower them in their journey to become a peer reviewer.\n\n\n\n\n\n\nECReviewer workshop and guide\n\n\n\nR. Heyard and C. Martarelli (2025). A peer review workshop - First hands-on experience for early career reviewers. https://doi.org/10.17605/OSF.IO/T5WRH\nF. Logoz, C. Martarelli and R. Heyard (2024). A peer review guide - Empowering early career reviewers. https://doi.org/10.17605/OSF.IO/T5WRH\n\n\n\n\nGood research practices and open science\nI regularly teach a course at the UZH Graduate Campus on Good Research Practices for PhD Students and postdocs. I also co-developed a sylabus for an Open Science course.\n\n\n\n\n\n\nGRP and OS training\n\n\n\nN. Boyle, E. Centeno, J. Dierkes, R. Heyard, J. Kao, H. Lakshminarayanan, F. Pöschel and H. Seibold (2023). Open Science Principles and Practices: A general course outline for an overview of Open Science. https://doi.org/10.5281/zenodo.7818767\nR. Heyard, S. Schwab, E. Furrer, G Fraga-González, H. vd Wiel, L. Held and F. Molo. Good Research Practices}. Graduate Campus, University of Zurich. https://doi.org/10.17605/OSF.IO/T9RQM",
+    "crumbs": [
+      "Training activities"
+    ]
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research",
+    "section": "",
+    "text": "Meta-research and reproducibility\nMeta-research aims to study and improve research practices and processes. I am specifically interested in developing methods to diagnose and address issues related to the reproducibility, transparency and overall quality of published research. Ongoing work in this area of research includes developing methodology for assessing and designing replication studies and related concepts, as well as my contributions in the iRISE (improving Reproducibility In SciencE) project. I highlight specific research projects below.\n\nimproving Reproducibility In SciencE – This project is funded through the Horizon Europe WIDERA call Increasing the Reproducibility of Scientific Results (WIDERA-2022-ERA-01-41). I lead the theory work package of the project. The goal of iRISE is to deepen our understanding of reproducibility drivers and to evaluate the effectiveness of interventions aimed at improving reproducibility.\n\n\n\n\n\n\nKey publications\n\n\n\nR. Heyard, S. Pawel, J. Frese, B. Voelkl, H. Würbel, S. McCann, L. Held, K. E. Wever, H. Hartmann, L. Townsin and S. Zellers (2025) A scoping review on metrics to quantify reproducibility: a multitude of questions leads to a multitude of metrics. Royal Society Open Science. https://doi.org/10.1098/rsos.242076\n\n\nAnalysis of Replication Studies – I regularly collaborate with colleagues from the Center for Reproducible Science, who are working on methodologies to assess replication success and design replication studies.\n\n\n\n\n\n\n\nKey publications\n\n\n\nS. Pawel, R. Heyard, C. Micheloud and L. Held (2024). Replication of “null results” – Absence of evidence or evidence of absence? eLife. https://doi.org/10.7554/eLife.92311.3.sa0\nF. Freuli, L. Held and R. Heyard (2023). Replication Success Under Questionable Research Practices — a Simulation Study. Statistical Science. https://doi.org/10.1214/23-STS904\nN. Turoman, R. Heyard, S. Schwab, E. Furrer, E. Vergauwe and L. Held (2023). Using an expert survey and user feedback to construct PRECHECK: A checklist to evaluate preprints on COVID-19 and beyond. F1000 Research. https://doi.org/10.12688/f1000research.129814.3\n\n\nExplaining variation and heterogeneity in replication projects and in real world evidence emulations\n\n\n\n\n\n\nKey publications\n\n\n\nR. Heyard and L. Held (2024). Meta-regression to explain shrinkage and heterogeneity in large-scale replication projects. To appear in PLOS ONE. https://doi.org/10.31222/osf.io/e9nw2\nJ. Köppe, C. Micheloud, S. Erdmann, R. Heyard and L. Held (2024) Assessing the replicability of RCTs in RWE emulations. BMC Medical Research Methodology. https://doi.org/10.1186/s12874-025-02589-z\nR. Heyard, L. Held, S. Schneeweiss and S. V. Wang (2024). Design differences and variation in results between randomised trials and non-randomised emulations: meta-analysis of RCT-DUPLICATE data. BMJ Medicine. https://doi.org/10.1136/bmjmed-2023-000709\n\n\n\n\n\n\nResearch assessment\nI am interested in evaluating the quality, credibility, and utility of research, either by aggregating evidence across studies, methods or evidence types, or by assessing the strength or the quality of (a body of) research. Applying this to the researcher-level, novel methodology in this space could inform responsible research assessment that rewards openness, collaboration and methodological rigour. In this space, I am currently invested in the CoARA working group on reponsible Indicators and Metrics. I also lead a working group on Research Assessment and Incentives for the Swiss Reproducibility Network.\n\n\n\n\n\n\nKey publications and outputs\n\n\n\nR. Heyard, E. Furrer, L. Held, H. Würbel, E. Vergauwe and M. Ochsner (2024) Towards a comprehensive and community-accepted SNSF research output list. https://osf.io/vgs4b\nE. Furrer, M. Ochsner, R. Heyard, C. Priboi, E. Vergauwe, H. Würbel and L. Held (2025). SIRRO Recommendations Open Science in Research Evaluation. https://osf.io/gya3s\nR. Heyard, T. Philipp and H. Hottenrott (2021). Imaginary carrot or effective fertiliser? A rejoinder on funding and productivity. Scientometrics. https://doi.org/10.1007/s11192-021-04130-7\nR. Heyard and H. Hottenrott (2021). The value of research funding for knowledge creation and dissemination: A study of SNSF Research Grants. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-021-00891-x\n\n\n\n\n\nDecision-making under uncertainty\nI previously, while working at the Swiss National Science Foundation, developed a Bayesian ranking (BR) methodology to support decision-making in contexts where limited resources must be allocated under uncertainty. The method is useful not only in the context of decision-making in research funding, but also for example when prioritising drugs or components for further development.\n\n\n\n\n\n\nKey publications and outputs\n\n\n\nR. Heyard, D. Pina, I. Buljan and A. Marusic (2025). Assessing the potential of a Bayesian ranking as an alternative to consensus meetings for decision making in research funding: A Case Study of Marie Skłodowska-Curie Actions. PLOS ONE. https://doi.org/10.1371/journal.pone.0317772\nR. Heyard (2023). ERforResearch: Expected Rank for Research Evaluation. R package version 4.0.0. https://github.com/snsf-data/ERforResearch\nR. Heyard, M. Ott, G. Salanti and M. Egger (2022) Rethinking the Funding Line at the Swiss National Science Foundation: Bayesian Ranking and Lottery. Statistics and Public Policy. https://doi.org/10.1080/2330443X.2022.2086190\nM. Bieri, K. Roser, R. Heyard and M. Egger (2020). Face-to-face panel meetings versus remote evaluation of fellowship applications: simulation study at the Swiss National Science Foundation. BMJ Open. https://doi.org/10.1136/bmjopen-2020-047386",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi there!",
+    "section": "",
+    "text": "Rachel Heyard, PhD\nMeta-researcher, Postdoc, Open Science Enthusiast, Reproducible Science Trainer, Statistician\nCyclist, Book and Coffee lover, Studying Italiano\nSwiss based - from Luxembourg\n\n \n  \n   \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Rachel Heyard",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Date\nEvent\nLocation\nTitle\nSlides\n\n\n\n\n24.06.2025\nInvited Lecture - Webinar for Statisticians in the Pharmaceutical Industry (preclinical SIG)\nonline\nMethodology and first results of the iRISE consortium\nosf.io/a96we\n\n\n31.03.2025\nInvited Lecture - Seminar in Psychometrics\nPrague (CZ)\nMethodological innovations in decision‑making for research funding with a focus on transparency and reproducibility”\nosf.io/5kdyp\n\n\n5.02.2025\nKeynote at PhD Satellite Event\nBasel (CH)\nPlan well! Transparent and reproducible research practices for clinical research\nosf.io/4cvfw\n\n\n28.11.2024\nInvited Lecture - CRESS\nParis (FR)\nInvestigating differences between results from RCTs and their non‑randomised emulations\nosf.io/8cekj\n\n\n29.10.2024\nMETA-REP conference 2024\nMunich (DE)\nThe iRISE Theory Work Package: Methodology and First Results\nosf.io/5sabg\n\n\n23.09.2024\nLunch&Learn Open Science, UZH\nonline\nFAIR data for reproducible research\nosf.io/bqwk9\n\n\n12.09.2024\nMETRICS International Forum\nonline\nExplaining shrinkage and heterogeneity in large‑scale replication projects using meta‑regressions\nosf.io/2xhr6\n\n\n02.05.2024\nInvited Lecture\nSwedish Research Council, Stockholm (Sweden)\nUncertainty in research funding allocation\nosf.io/uvw4a\n\n\n23.11.2023\nWorkshop “Having the bird’s eye view: Introduction to metascientific research practices”\nUniversity of Zurich (CH)\nThe limits and biases of published literature - From questionable research practices to publication bias\nosf.io/5uqzs\n\n\n25.10.2023\nOpen Access and The Revolution in Academic Publishing (Input lecture and panelist)\nonline (CH)\nThere is more to research than just papers - Alternative Research Outputs in Switzerland\nosf.io/mbzrd\n\n\n11.09.2023\nOpen and Reproducible Practices for Experimental Research Summer School\nEPFL, Lausanne (CH)\nKeep calm and plan well\nosf.io/c5mne\n\n\n08.03.2023\nIfB Doctoral Colloquium\nETH Zurich (CH)\nSimple Rules for Good Research Practice\nosf.io/jzv5p\n\n\n08.02.2023\nKeynote at Peer Review under Review, ESO Workshop\nGarching bei München (DE)\nLet’s talk about uncertainty in funding allocation\nosf.io/3r7et\n\n\n07.10.2022\nBioMed PhD Day\nLugano (CH)\nSimple Rules for Good Research Practice\nosf.io/3dyr9\n\n\n21.09.2022\nUniNE CUSO open science workshop\nNeuchatel (CH)\nBest practices in statistical design and reporting\nosf.io/aqj7r\n\n\n09.09.2022\nInternational Congress on Peer Review and Scientific Publication\nChicago (US)\nA Bayesian Approach to Reduce Bias in the Ranking of Peer-Reviewed Grant Proposals Submitted to the Swiss National Science Foundation\nrachelhey.github.io/talks/BR_chicago\n\n\n06.04.2022\nLunch and Learn Open Science\nOnline\nOpen and FAIR Data\nwww.ub.uzh.ch/…\n\n\n29.09.2021\nMeeting of the UNECE Group of Experts on Gender Statistics 2021\nOnline\nCommunicating the effect of gender in research funding, during lockdown and beyond\nunece.org/…",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "I am a Senior Researcher at the Center for Reproducible Science (CRS) at the University of Zurich (UZH), and\n\nteach Good Research Practices to PhD Students and other postdocs at the UZH Graduate Campus.\norganize the CRS ReproducibiliTea Journal Club.\n\nam a board member and vice-president of the Swiss Statistical Society\nam part of the steering committee of the CoARA working group on metrics and indicators.   \n\nBefore, I was a postdoctoral fellow, and before that I worked as a statistician in the Data Team of the Swiss National Science Foundation.\nAnd before that, in January 2019, I defended my PhD in the “Epidemiology and Biostatistics” Structured PhD Program.\nNow, I am interested in meta-research, Reproducibility, Open Science and Data, incentives for Good Research Practice and research software engineering. I generally want to make research more reproducible and improve research evaluation!",
+    "crumbs": [
+      "About me"
+    ]
+  },
+  {
+    "objectID": "about.html#who-am-i",
+    "href": "about.html#who-am-i",
+    "title": "About me",
+    "section": "",
+    "text": "I am a Senior Researcher at the Center for Reproducible Science (CRS) at the University of Zurich (UZH), and\n\nteach Good Research Practices to PhD Students and other postdocs at the UZH Graduate Campus.\norganize the CRS ReproducibiliTea Journal Club.\n\nam a board member and vice-president of the Swiss Statistical Society\nam part of the steering committee of the CoARA working group on metrics and indicators.   \n\nBefore, I was a postdoctoral fellow, and before that I worked as a statistician in the Data Team of the Swiss National Science Foundation.\nAnd before that, in January 2019, I defended my PhD in the “Epidemiology and Biostatistics” Structured PhD Program.\nNow, I am interested in meta-research, Reproducibility, Open Science and Data, incentives for Good Research Practice and research software engineering. I generally want to make research more reproducible and improve research evaluation!",
+    "crumbs": [
+      "About me"
+    ]
+  },
+  {
+    "objectID": "about.html#what-is-meta-research",
+    "href": "about.html#what-is-meta-research",
+    "title": "About me",
+    "section": "What is Meta-Research?",
+    "text": "What is Meta-Research?\nMeta-research has been defined as the interdisciplinary study of research itself (link). Sounds pretty meta, right?",
+    "crumbs": [
+      "About me"
+    ]
+  },
+  {
+    "objectID": "about.html#whats-wrong-with-research-evaluation",
+    "href": "about.html#whats-wrong-with-research-evaluation",
+    "title": "About me",
+    "section": "What’s wrong with research evaluation?",
+    "text": "What’s wrong with research evaluation?\nWell, where should I start? In short, funding and hiring decisions in research are based on peer review. However, peer review has been shown to be inefficient, biased and unreliable. A good resource to start reading up on what’s wrong with (grant) peer review is Guthrie et al. (2018). On top of that there is a misalignment between the evaluation criteria used by funding bodies, which often emphasis quantity of publications/citations over quality of research, and the desired outcome which should be “good, transparent and reproducible research”. We therefore need alternative criteria for excellence that align with Good Research Practice and need to acknowledge the bias and uncertainty in peer review when making funding decisions.",
+    "crumbs": [
+      "About me"
+    ]
+  }
+]
