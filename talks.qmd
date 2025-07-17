@@ -7,7 +7,6 @@ title: "Talks"
 | 24.06.2025 | Invited Lecture - Webinar for Statisticians in the Pharmaceutical Industry (preclinical SIG) | online | Methodology and first results of the iRISE consortium | [osf.io/a96we](https://osf.io/a96we) | 
 | 31.03.2025 | Invited Lecture - Seminar in Psychometrics | Prague (CZ) | Methodological innovations in decision‑making for research funding with a focus on transparency and reproducibility" | [osf.io/5kdyp](https://osf.io/5kdyp) | 
 | 5.02.2025 | Keynote at PhD Satellite Event  | Basel (CH) | Plan well! Transparent and reproducible research practices for clinical research | [osf.io/4cvfw](https://osf.io/4cvfw) | 
-
 | 28.11.2024 | Invited Lecture - CRESS | Paris (FR) | Investigating differences between results from RCTs and their non‑randomised emulations | [osf.io/8cekj](https://osf.io/8cekj) | 
 | 29.10.2024 | META-REP conference 2024 | Munich (DE)| The iRISE Theory Work Package: Methodology and First Results | [osf.io/5sabg](https://osf.io/5sabg) | 
 | 23.09.2024 | Lunch&Learn Open Science, UZH |  online | FAIR data for reproducible research | [osf.io/bqwk9](https://osf.io/bqwk9) | 
