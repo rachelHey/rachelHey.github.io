@@ -9,7 +9,6 @@ website:
   title: "Rachel Heyard"
   sidebar:
     style: "docked"
-    search: true
     background: "#8ac1c9"
     contents:
       - href: index.qmd
@@ -21,7 +20,7 @@ website:
 
 format:
   html:
-    # theme: yeti
+    theme: minimal
     css: styles.css
     toc: true
 
