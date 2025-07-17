@@ -1,5 +1,8 @@
 name: Quarto Publish
 
+permissions:
+  contents: write
+  
 on:
   push:
     branches: [main]
@@ -8,9 +11,7 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Add .nojekyll
-        run: touch docs/.nojekyll
-        
+      
       - uses: actions/checkout@v4
 
       - name: Set up Quarto
@@ -26,6 +27,9 @@ jobs:
 
       - name: Render site
         run: quarto render
+      
+      - name: Add .nojekyll
+        run: touch docs/.nojekyll
 
       - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
