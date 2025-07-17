@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About me"
 format: 
   html: 
     toc: false
@@ -7,22 +7,21 @@ format:
 
 ## Who am I?
 
-* I am a Postdoctoral Fellow at the [Center for Reproducible Science](https://www.crs.uzh.ch/en.html) (CRS) at the University of Zurich (UZH).
+* I am a Senior Researcher at the [Center for Reproducible Science](https://www.crs.uzh.ch/en.html) (CRS) at the University of Zurich (UZH), and
 
-  * I teach [Good Research Practices](https://www.crs.uzh.ch/en/training/GoodResearchPractice.html) to PhD Students and other postdocs at the UZH Graduate Campus.
-  * I organize the CRS [ReproducibiliTea Journal Club](https://www.crs.uzh.ch/en/training/ReproducibiliTea.html).  
-  * I am interested in meta-research, Reproducibility, Open Science and Data, incentives for Good Research Practice and research software engineering. I generally want to make research more reproducible and improve research evaluation!
-
-* I am also   
-  * a board member and vice-president of the [Swiss Statistical Society](https://stat.ch/en/)
-  * a co-organizer of the [Zurich R User Group](https://www.meetup.com/zurich-r-user-group/) 
+  * teach [Good Research Practices](https://www.crs.uzh.ch/en/training/GoodResearchPractice.html) to PhD Students and other postdocs at the UZH Graduate Campus.
+  * organize the CRS [ReproducibiliTea Journal Club](https://www.crs.uzh.ch/en/training/ReproducibiliTea.html).  
+  * am a board member and vice-president of the [Swiss Statistical Society](https://stat.ch/en/)
+  * am part of the steering committee of the [CoARA working group on metrics and indicators](https://github.com/rachelHey/metricsWG/blob/main/README.md).
+  <!-- * a co-organizer of the [Zurich R User Group](https://www.meetup.com/zurich-r-user-group/)  -->
   <!-- * on the programm committee of [useR! 2024](https://user2024.r-project.org/) in Salzburg -->
-  * on the steering committee of the [CoARA working group on metrics and indicators](https://github.com/rachelHey/metricsWG/blob/main/README.md).
   <!-- * on the advisory board of the [Peer Review Workbench](https://lab.icsr.net/icsr_lab/workbenches.html). -->
 
-* Before joining the CRS, I worked as a statistician in the Data Team of the [Swiss National Science Foundation](https://www.snf.ch/).
+* Before, I was a postdoctoral fellow, and before that I worked as a statistician in the Data Team of the [Swiss National Science Foundation](https://www.snf.ch/).
 
-* And before that, in January 2019, I defended my PhD in the ["Epidemiology and Biostatistics" Structured PhD Program](https://www.epibiostat-phd.uzh.ch/en.html). 
+* And before _that_, in January 2019, I defended my PhD in the ["Epidemiology and Biostatistics" Structured PhD Program](https://www.epibiostat-phd.uzh.ch/en.html). 
+
+* Now, I am interested in meta-research, Reproducibility, Open Science and Data, incentives for Good Research Practice and research software engineering. I generally want to make research more reproducible and improve research evaluation!
 
 ## What is Meta-Research? 
 

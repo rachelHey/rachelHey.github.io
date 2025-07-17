@@ -1,8 +1,0 @@
----
-title: "Rethinking the research funding allocation process"
-description: "I am interested in improving the way research funding is allocated to researchers or research projects. More specifically, I aim at finding ways to acknowledge uncertainty in funding allocations."
-image: "br.jpg"
-format: 
-  html: 
-    toc: false
----

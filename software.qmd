@@ -1,9 +1,0 @@
----
-title: "Software"
-format: 
-  html: 
-    toc: false
----
-# ERforResearch R-package
-
-The Bayesian Ranking methodology presented in [Heyard et al. (2022)](https://www.tandfonline.com/doi/full/10.1080/2330443X.2022.2086190) was implemented in an R-package ERforResearch available from [github](https://github.com/snsf-data/ERforResearch). The [online supplement](https://snsf-data.github.io/ERpaper-online-supplement/) of the paper explains how to use the package to reproduce the results from the paper. 

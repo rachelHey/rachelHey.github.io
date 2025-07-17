@@ -1,0 +1,86 @@
+---
+title: "Research"
+format: 
+  html: 
+    toc: true
+---
+
+----
+
+### Meta-research and reproducibility
+
+Meta-research aims to study and improve research practices and processes. 
+I am  specifically interested in developing methods to diagnose and address 
+issues related to the reproducibility, transparency and overall quality of
+published research. Ongoing work in this area of research includes
+developing methodology for assessing and designing replication studies and related concepts, as well as my contributions in the [**iRISE**](https://irise-project.eu/) (improving Reproducibility In SciencE) project. I highlight specific research projects below.
+
+- **improving Reproducibility In SciencE** -- This project is funded through the Horizon Europe WIDERA call _Increasing the Reproducibility of Scientific Results_ (WIDERA-2022-ERA-01-41). I lead the theory work package of the project. The goal of iRISE is to deepen our understanding of reproducibility drivers and to evaluate the effectiveness of interventions aimed at improving reproducibility.
+
+  ::: {.callout-note} 
+  ## Key publications
+
+  R. Heyard, S. Pawel, J. Frese, B. Voelkl, H. Würbel, S. McCann, L. Held, K. E. Wever, H. Hartmann, L. Townsin and S. Zellers (2025) A scoping review on metrics to quantify reproducibility: a multitude of questions leads to a multitude of metrics. Royal Society Open Science. [https://doi.org/10.1098/rsos.242076](https://doi.org/10.1098/rsos.242076)
+  :::
+
+- **Analysis of Replication Studies** -- I regularly collaborate with colleagues from the Center for Reproducible Science, who are working on methodologies to assess replication success and design replication studies. 
+
+  <!-- <ins>Key publications:</ins>  -->
+  ::: {.callout-note} 
+  ## Key publications
+  S. Pawel, R. Heyard, C. Micheloud and L. Held (2024). Replication of “null results” – Absence of evidence or evidence of absence? eLife. [https://doi.org/10.7554/eLife.92311.3.sa0](https://doi.org/10.7554/eLife.92311.3.sa0)
+  
+  F. Freuli, L. Held and R. Heyard (2023). Replication Success Under Questionable Research Practices — a Simulation Study. Statistical Science. [https://doi.org/10.1214/23-STS904](https://doi.org/10.1214/23-STS904)
+  
+  N. Turoman, R. Heyard, S. Schwab, E. Furrer, E. Vergauwe and L. Held (2023). Using an expert survey and user feedback to construct PRECHECK: A checklist to evaluate preprints on COVID-19 and beyond. F1000 Research. [https://doi.org/10.12688/f1000research.129814.3](https://doi.org/10.12688/f1000research.129814.3)
+  ::::
+  
+- **Explaining variation and heterogeneity in replication projects and in real world evidence emulations**
+
+  ::: {.callout-note} 
+  ## Key publications
+  
+  R. Heyard and L. Held (2024). Meta-regression to explain shrinkage and heterogeneity in large-scale replication projects. To appear in PLOS ONE.  [https://doi.org/10.31222/osf.io/e9nw2](https://doi.org/10.31222/osf.io/e9nw2)
+  
+  J. Köppe, C. Micheloud, S. Erdmann, R. Heyard and L. Held (2024) Assessing the replicability of RCTs in RWE emulations. BMC Medical Research Methodology.   [https://doi.org/10.1186/s12874-025-02589-z]( https://doi.org/10.1186/s12874-025-02589-z) 
+  
+  R. Heyard, L. Held, S. Schneeweiss and S. V. Wang (2024). Design differences and variation in results between randomised trials and non-randomised emulations: meta-analysis of RCT-DUPLICATE data. BMJ Medicine. [https://doi.org/10.1136/bmjmed-2023-000709](https://doi.org/10.1136/bmjmed-2023-000709)
+  :::
+
+------ 
+
+### Research assessment
+
+I am interested in evaluating the quality, credibility, and utility of research, either by aggregating evidence across studies, methods or evidence types, or by assessing the strength or the quality of (a body of) research. Applying this to the researcher-level, novel methodology in this space could inform responsible research assessment that rewards openness, collaboration and methodological rigour. In this space, I am currently invested in the [CoARA working group on reponsible Indicators and Metrics](https://github.com/rachelHey/metricsWG). I also lead a working group on [Research Assessment and Incentives](https://www.swissrn.org/contents/activities/research%20assessments%20and%20incentives/) for the Swiss Reproducibility Network.
+
+::: {.callout-note} 
+## Key publications and outputs
+
+R. Heyard, E. Furrer, L. Held, H. Würbel, E. Vergauwe and M. Ochsner (2024) Towards a comprehensive and community-accepted SNSF research output list. [https://osf.io/vgs4b](https://osf.io/vgs4b)
+
+E. Furrer, M. Ochsner, R. Heyard, C. Priboi, E. Vergauwe, H. Würbel and L. Held (2025). SIRRO Recommendations Open Science in Research Evaluation. [https://osf.io/gya3s](https://osf.io/gya3s)
+
+R. Heyard, T. Philipp and H. Hottenrott (2021). Imaginary carrot or effective fertiliser? A rejoinder on funding and productivity. Scientometrics. [https://doi.org/10.1007/s11192-021-04130-7](https://doi.org/10.1007/s11192-021-04130-7)
+
+R. Heyard and H. Hottenrott (2021). The value of research funding for knowledge creation and dissemination: A study of SNSF Research Grants. Humanities and Social Sciences Communications. [https://doi.org/10.1057/s41599-021-00891-x](https://doi.org/10.1057/s41599-021-00891-x)
+:::
+
+------ 
+
+### Decision-making under uncertainty
+I previously, while working at the Swiss National Science Foundation, developed
+a Bayesian ranking (BR) methodology to support decision-making in contexts where
+limited resources must be allocated under uncertainty. The method is useful not 
+only in the context of decision-making in research funding, but also for example
+when prioritising drugs or components for further development.
+
+::: {.callout-note} 
+## Key publications and outputs
+R. Heyard, D. Pina, I. Buljan and A. Marusic (2025). Assessing the potential of a Bayesian ranking as an alternative to consensus meetings for decision making in research funding: A Case Study of Marie Skłodowska-Curie Actions. PLOS ONE.  [https://doi.org/10.1371/journal.pone.0317772](https://doi.org/10.1371/journal.pone.0317772)
+
+R. Heyard (2023). ERforResearch: Expected Rank for Research Evaluation. R package version 4.0.0. [https://github.com/snsf-data/ERforResearch](https://github.com/snsf-data/ERforResearch)
+
+R. Heyard, M. Ott, G. Salanti and M. Egger (2022) Rethinking the Funding Line at the Swiss National Science Foundation: Bayesian Ranking and Lottery. Statistics and Public Policy. [https://doi.org/10.1080/2330443X.2022.2086190](https://doi.org/10.1080/2330443X.2022.2086190)
+
+M. Bieri, K. Roser, R. Heyard and M. Egger (2020). Face-to-face panel meetings versus remote evaluation of fellowship applications: simulation study at the Swiss National Science Foundation. BMJ Open. [https://doi.org/10.1136/bmjopen-2020-047386](https://doi.org/10.1136/bmjopen-2020-047386)
+:::

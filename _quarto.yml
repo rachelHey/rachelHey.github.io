@@ -13,16 +13,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - section: "**Projects**"
-        contents: 
-          - projects/projects.qmd
-          # - projects/outreach.qmd
-      - section: "**Research Outputs**"
-        contents:
-          - publications.qmd
-          - talks.qmd
-          - software.qmd
-      - other.qmd
+      - projects.qmd
+      - teaching.qmd
+      - talks.qmd
 
 format:
   html:

@@ -1,0 +1,30 @@
+---
+title: "Training activities"
+format: 
+  html: 
+    toc: false
+---
+
+### Early Career Reviewers
+
+A training module, including an guide and a workshop developed for early career researchers to empower them in their journey to become a peer reviewer. 
+
+::: {.callout-note} 
+## ECReviewer workshop and guide
+
+R. Heyard and C. Martarelli (2025). A peer review workshop - First hands-on experience for early career reviewers. [https://doi.org/10.17605/OSF.IO/T5WRH](https://doi.org/10.17605/OSF.IO/T5WRH)
+    
+F. Logoz, C. Martarelli and R. Heyard (2024). A peer review guide - Empowering early career reviewers. [https://doi.org/10.17605/OSF.IO/T5WRH](https://doi.org/10.17605/OSF.IO/T5WRH)
+:::
+
+
+### Good research practices and open science
+I regularly teach a course at the UZH Graduate Campus on Good Research Practices for PhD Students and postdocs. I also co-developed a sylabus for an Open Science course. 
+
+
+::: {.callout-note} 
+## GRP and OS training
+N. Boyle, E. Centeno, J. Dierkes, R. Heyard, J. Kao, H. Lakshminarayanan, F. Pöschel and H. Seibold (2023). Open Science Principles and Practices: A general course outline for an overview of Open Science. [https://doi.org/10.5281/zenodo.7818767](https://doi.org/10.5281/zenodo.7818767)
+
+R. Heyard, S. Schwab, E. Furrer, G Fraga-González, H. vd Wiel, L. Held and F. Molo. Good Research Practices}. Graduate Campus, University of Zurich. [https://doi.org/10.17605/OSF.IO/T9RQM](https://doi.org/10.17605/OSF.IO/T9RQM)
+:::
