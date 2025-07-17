@@ -1,0 +1,31 @@
+name: Quarto Publish
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Install Pandoc
+        run: sudo apt-get install -y pandoc
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev
+          # If you use R/Python, install relevant packages here
+
+      - name: Render site
+        run: quarto render
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: main
+          folder: docs
