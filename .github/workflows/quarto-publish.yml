@@ -1,17 +1,16 @@
 name: Quarto Publish
 
-permissions:
-  contents: write
-  
 on:
   push:
     branches: [main]
 
+permissions:
+  contents: write
+  
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      
       - uses: actions/checkout@v4
 
       - name: Set up Quarto
@@ -23,7 +22,6 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev
-          # If you use R/Python, install relevant packages here
 
       - name: Render site
         run: quarto render
