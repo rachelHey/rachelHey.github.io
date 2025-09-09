@@ -26,7 +26,7 @@ about:
 ::: {#hero-heading} 
 # Rachel Heyard, PhD
 
-Meta-researcher, Postdoc, Open Science Enthusiast, Reproducible Science Trainer, Statistician
+Meta-researcher, Senior Researcher, Open Science Enthusiast, Reproducible Science Trainer, Statistician
 
 Cyclist, Book and Coffee lover, Studying _Italiano_
 
