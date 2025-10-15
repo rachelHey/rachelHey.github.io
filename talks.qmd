@@ -4,6 +4,8 @@ title: "Talks"
 
 | Date       | Event | Location  | Title | Slides |
 |------------|---------------|------------|-----------------------|----------------|
+| 15.10.2025 | Invited Talk - Webinar Peer Review and its Diversification | online | Filling a gap in early career researcher training: Lessons learned from two "early career reviewer" workshops | [osf.io/9wpd6](https://osf.io/9wpd6) | 
+| 26.08.2025 | ISCB2025 - Conference contribution | Basel (CH) | Quantifying reproducibility ‑ Results from a scoping review on reproducibility metrics and simulation studies into their real‑world applicability | [osf.io/47zxq](https://osf.io/47zxq) | 
 | 24.06.2025 | Invited Lecture - Webinar for Statisticians in the Pharmaceutical Industry (preclinical SIG) | online | Methodology and first results of the iRISE consortium | [osf.io/a96we](https://osf.io/a96we) | 
 | 31.03.2025 | Invited Lecture - Seminar in Psychometrics | Prague (CZ) | Methodological innovations in decision‑making for research funding with a focus on transparency and reproducibility" | [osf.io/5kdyp](https://osf.io/5kdyp) | 
 | 5.02.2025 | Keynote at PhD Satellite Event  | Basel (CH) | Plan well! Transparent and reproducible research practices for clinical research | [osf.io/4cvfw](https://osf.io/4cvfw) | 
