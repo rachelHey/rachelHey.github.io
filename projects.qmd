@@ -12,15 +12,25 @@ format:
 Meta-research aims to study and improve research practices and processes. 
 I am  specifically interested in developing methods to diagnose and address 
 issues related to the reproducibility, transparency and overall quality of
-published research. Ongoing work in this area of research includes
-developing methodology for assessing and designing replication studies and related concepts, as well as my contributions in the [**iRISE**](https://irise-project.eu/) (improving Reproducibility In SciencE) project. I highlight specific research projects below.
+published research. Ongoing work in this area of research includes developing methodology for assessing and designing replication studies, improving reproducibility and identifying issues related to credibility. I highlight specific research projects below.
 
-- **improving Reproducibility In SciencE** -- This project is funded through the Horizon Europe WIDERA call _Increasing the Reproducibility of Scientific Results_ (WIDERA-2022-ERA-01-41). I lead the theory work package of the project. The goal of iRISE is to deepen our understanding of reproducibility drivers and to evaluate the effectiveness of interventions aimed at improving reproducibility.
+- **improving Reproducibility In SciencE ([iRISE](https://irise-project.eu/))** -- This project is funded through the Horizon Europe WIDERA call _Increasing the Reproducibility of Scientific Results_ (WIDERA-2022-ERA-01-41). I lead the theory work package of the project. The goal of iRISE is to deepen our understanding of reproducibility drivers and to evaluate the effectiveness of interventions aimed at improving reproducibility.
 
   ::: {.callout-note} 
   ## Key publications
 
+  C. J. Huang, S. Pawel, K. E. Wever, B. V. Ineichen and R. Heyard (2026). Evaluating the applicability of replication success metrics in animal-to-human translation: A simulation study. eLife. [https://doi.org/10.7554/eLife.109853.1](https://doi.org/10.7554/eLife.109853.1)
+  
   R. Heyard, S. Pawel, J. Frese, B. Voelkl, H. Würbel, S. McCann, L. Held, K. E. Wever, H. Hartmann, L. Townsin and S. Zellers (2025) A scoping review on metrics to quantify reproducibility: a multitude of questions leads to a multitude of metrics. Royal Society Open Science. [https://doi.org/10.1098/rsos.242076](https://doi.org/10.1098/rsos.242076)
+
+  :::
+  
+- **INSPECT: Identifying Non-obvious Signals in Protocols for Early Credibility Threats** -- This project will examine whether it is possible to identify potential red flags for questionable research practices (QRPs) and potential scientific misconduct from clinical trial protocols or statistical analysis plans. I am the PI of this project, which is further described [here](https://www.crs.uzh.ch/en/news/2026-News/INSPECT--Identifying-Non-obvious-Signals-in-Protocols-for-Early-Credibility-Threats.html).     
+
+  ::: {.callout-note} 
+  ## Protocol for our rapid review
+
+  A. Rojas Mora, P.M. Degen, L. Held, U. Held and R. Heyard (2025) Identifying questionable research practices and types of misconduct during the planning phase of clinical trials: a rapid review. OSF. [https://osf.io/29b3f](https://osf.io/29b3f)
   :::
 
 - **Analysis of Replication Studies** -- I regularly collaborate with colleagues from the Center for Reproducible Science, who are working on methodologies to assess replication success and design replication studies. 
@@ -49,24 +59,6 @@ developing methodology for assessing and designing replication studies and relat
 
 ------ 
 
-### Research assessment
-
-I am interested in evaluating the quality, credibility, and utility of research, either by aggregating evidence across studies, methods or evidence types, or by assessing the strength or the quality of (a body of) research. Applying this to the researcher-level, novel methodology in this space could inform responsible research assessment that rewards openness, collaboration and methodological rigour. In this space, I am currently invested in the [CoARA working group on reponsible Indicators and Metrics](https://github.com/rachelHey/metricsWG). I also lead a working group on [Research Assessment and Incentives](https://www.swissrn.org/contents/activities/research%20assessments%20and%20incentives/) for the Swiss Reproducibility Network.
-
-::: {.callout-note} 
-## Key publications and outputs
-
-R. Heyard, E. Furrer, L. Held, H. Würbel, E. Vergauwe and M. Ochsner (2024) Towards a comprehensive and community-accepted SNSF research output list. [https://osf.io/vgs4b](https://osf.io/vgs4b)
-
-E. Furrer, M. Ochsner, R. Heyard, C. Priboi, E. Vergauwe, H. Würbel and L. Held (2025). SIRRO Recommendations Open Science in Research Evaluation. [https://osf.io/gya3s](https://osf.io/gya3s)
-
-R. Heyard, T. Philipp and H. Hottenrott (2021). Imaginary carrot or effective fertiliser? A rejoinder on funding and productivity. Scientometrics. [https://doi.org/10.1007/s11192-021-04130-7](https://doi.org/10.1007/s11192-021-04130-7)
-
-R. Heyard and H. Hottenrott (2021). The value of research funding for knowledge creation and dissemination: A study of SNSF Research Grants. Humanities and Social Sciences Communications. [https://doi.org/10.1057/s41599-021-00891-x](https://doi.org/10.1057/s41599-021-00891-x)
-:::
-
------- 
-
 ### Decision-making under uncertainty
 I previously, while working at the Swiss National Science Foundation, developed
 a Bayesian ranking (BR) methodology to support decision-making in contexts where
@@ -83,4 +75,22 @@ R. Heyard (2023). ERforResearch: Expected Rank for Research Evaluation. R packag
 R. Heyard, M. Ott, G. Salanti and M. Egger (2022) Rethinking the Funding Line at the Swiss National Science Foundation: Bayesian Ranking and Lottery. Statistics and Public Policy. [https://doi.org/10.1080/2330443X.2022.2086190](https://doi.org/10.1080/2330443X.2022.2086190)
 
 M. Bieri, K. Roser, R. Heyard and M. Egger (2020). Face-to-face panel meetings versus remote evaluation of fellowship applications: simulation study at the Swiss National Science Foundation. BMJ Open. [https://doi.org/10.1136/bmjopen-2020-047386](https://doi.org/10.1136/bmjopen-2020-047386)
+:::
+
+------ 
+
+### Research assessment
+
+I am interested in evaluating the quality, credibility, and utility of research, either by aggregating evidence across studies, methods or evidence types, or by assessing the strength or the quality of (a body of) research. Applying this to the researcher-level, novel methodology in this space could inform responsible research assessment that rewards openness, collaboration and methodological rigour. In this space, I am currently invested in the [CoARA working group on reponsible Indicators and Metrics](https://github.com/rachelHey/metricsWG). I also lead a working group on [Research Assessment and Incentives](https://www.swissrn.org/contents/activities/research%20assessments%20and%20incentives/) for the Swiss Reproducibility Network.
+
+::: {.callout-note} 
+## Key publications and outputs
+
+R. Heyard, E. Furrer, L. Held, H. Würbel, E. Vergauwe and M. Ochsner (2024) Towards a comprehensive and community-accepted SNSF research output list. [https://osf.io/vgs4b](https://osf.io/vgs4b)
+
+E. Furrer, M. Ochsner, R. Heyard, C. Priboi, E. Vergauwe, H. Würbel and L. Held (2025). SIRRO Recommendations Open Science in Research Evaluation. [https://osf.io/gya3s](https://osf.io/gya3s)
+
+R. Heyard, T. Philipp and H. Hottenrott (2021). Imaginary carrot or effective fertiliser? A rejoinder on funding and productivity. Scientometrics. [https://doi.org/10.1007/s11192-021-04130-7](https://doi.org/10.1007/s11192-021-04130-7)
+
+R. Heyard and H. Hottenrott (2021). The value of research funding for knowledge creation and dissemination: A study of SNSF Research Grants. Humanities and Social Sciences Communications. [https://doi.org/10.1057/s41599-021-00891-x](https://doi.org/10.1057/s41599-021-00891-x)
 :::

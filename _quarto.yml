@@ -10,7 +10,7 @@ website:
   title: "Rachel Heyard"
   sidebar:
     style: "docked"
-    background: "#8ac1c9"
+    background: "#8cb1ce"
     contents:
       - href: index.qmd
         text: Home
