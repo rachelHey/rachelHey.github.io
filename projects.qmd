@@ -33,6 +33,9 @@ published research. Ongoing work in this area of research includes developing me
   A. Rojas Mora, P.M. Degen, L. Held, U. Held and R. Heyard (2025) Identifying questionable research practices and types of misconduct during the planning phase of clinical trials: a rapid review. OSF. [https://osf.io/29b3f](https://osf.io/29b3f)
   :::
 
+- **CORTRE – COmplete Reporting for Transparent Reproducibility Efforts** -- This project aims to develop a consensus-based reporting guideline for large-scale “meta-studies” that investigate reproducibility, replicability, robustness, generalisability, or related concepts. More information is available on the [project website](https://cortre.github.io/index.html).
+
+
 - **Analysis of Replication Studies** -- I regularly collaborate with colleagues from the Center for Reproducible Science, who are working on methodologies to assess replication success and design replication studies. 
 
   <!-- <ins>Key publications:</ins>  -->
@@ -85,6 +88,8 @@ I am interested in evaluating the quality, credibility, and utility of research,
 
 ::: {.callout-note} 
 ## Key publications and outputs
+
+D. Crepaldi,  R. Heyard,  K. A. Nawrot, F. D. Sch\"{o}nbrodt et al (2025) On the responsible use of metrics and indicators in research assessment. Preprint. [10.31222/osf.io/9cdns_v1](https://doi.org/10.31222/osf.io/9cdns_v1)
 
 R. Heyard, E. Furrer, L. Held, H. Würbel, E. Vergauwe and M. Ochsner (2024) Towards a comprehensive and community-accepted SNSF research output list. [https://osf.io/vgs4b](https://osf.io/vgs4b)
 

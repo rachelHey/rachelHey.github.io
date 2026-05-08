@@ -13,8 +13,6 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/rachel-heyard-3145aa91/
-    # - text: Twitter
-    #   href: https://twitter.com/rachelheyR
     - icon: github
       text: GitHub
       href: https://github.com/rachelHey
@@ -26,10 +24,15 @@ about:
 ::: {#hero-heading} 
 # Rachel Heyard, PhD
 
-Meta-researcher, Senior Researcher, Open Science Enthusiast, Reproducible Science Trainer, Statistician
+Senior Researcher at [Center for Reproducible Science and Research Synthesis](https://www.crs.uzh.ch/en.html) at the University of Zurich  
+Director Meta-Science and Research at [FORRT](https://forrt.org/) (Framework for Open and Reproducible Research Training)  
+Vice-president of the [Swiss Statistical Society](https://stat.ch/en/)  
+Core team member of the [MERRI](https://merricollaboration.github.io/) (MEta-Research for Research Improvement) Collaboration  
+
+_Meta-researcher, Open Science Enthusiast, Reproducible Science Trainer, Statistician_
 
 Cyclist, Book and Coffee lover, Studying _Italiano_
 
-Swiss based - from Luxembourg
+Swiss based 🇨🇭 - from Luxembourg 🇱🇺
 
 :::
