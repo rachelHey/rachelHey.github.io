@@ -7,7 +7,15 @@ format:
 
 ### Early Career Reviewers
 
-A training module, including an guide and a workshop developed for early career researchers to empower them in their journey to become a peer reviewer. 
+A training module, including a guide and a workshop developed for early career researchers to empower them in their journey to become a peer reviewer. 
+
+::: {.callout-note} 
+## ECR Reviewers platform
+
+An open, online and collaborative platform: 
+[https://ecr-reviewers.gitlab.io/guide/](https://ecr-reviewers.gitlab.io/guide/).
+:::
+
 
 ::: {.callout-note} 
 ## ECReviewer workshop and guide
