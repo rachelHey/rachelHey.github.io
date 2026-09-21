@@ -35,8 +35,8 @@ website:
     foreground: "#2b2b2b"
     collapse-below: md
     right:
-      - href: index.qmd
-        text: About
+      - href: updates.qmd
+        text: Updates
       - href: projects.qmd
         text: Research
       - href: teaching.qmd

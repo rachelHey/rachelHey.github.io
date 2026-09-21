@@ -34,10 +34,24 @@ published research. Ongoing work in this area of research includes developing me
   A. Rojas Mora, P.M. Degen, L. Held, U. Held and R. Heyard (2025) Identifying questionable research practices and types of misconduct during the planning phase of clinical trials: a rapid review. OSF. [https://osf.io/29b3f](https://osf.io/29b3f)
   :::
 
-- **CORTRE – COmplete Reporting for Transparent Reproducibility Efforts** -- This project aims to develop a consensus-based reporting guideline for large-scale “meta-studies” that investigate reproducibility, replicability, robustness, generalisability, or related concepts. More information is available on the [project website](https://cortre.github.io/index.html).
+- **CORTRE -- COmplete Reporting for Transparent Reproducibility Efforts** -- This project aims to develop a consensus-based reporting guideline for large-scale “meta-studies” that investigate reproducibility, replicability, robustness, generalisability, or related concepts. More information is available on the [project website](https://cortre.github.io/index.html).
+
+  ::: {.callout-note} 
+  ## Key publications
+
+  R. Heyard, M. Pittelkow, P. Silverstein, O. B. Amaral, S. Gordon, M. Wasylewski and F. Molo (2026). COmplete Reporting for Transparent Reproducibility Efforts (CORTRE): a reporting guideline [Stage 1 Registered Report]. MetaArxiv. <https://doi.org/10.31222/osf.io/6wj82_v1>
+  :::
+
+- **DREAMR / Table 1 project** -- With this project, we aim to propose a standard sample characteristics table structure for studies performed on research papers (i.e., meta-research).
+
+  ::: {.callout-note} 
+  ## Key publications
+
+  S. Zellers, R. Heyard, M. Salholz-Hillel, S. Smith, K. Thomson, E. Sena, K. E. Wever, K. Hair and T. Weissgerber (2025). Building a sample characteristics table for studies on peer-reviewed publications: Rationale and pipeline development. MetaArxiv. <https://doi.org/10.31222/osf.io/2yhux_v2>
+  :::
 
 
-- **Analysis of Replication Studies** -- I regularly collaborate with colleagues from the Center for Reproducible Science, who are working on methodologies to assess replication success and design replication studies. 
+- **Analysis of Replication Studies** -- Research on methodologies to assess replication success and design replication studies. 
 
   <!-- <ins>Key publications:</ins>  -->
   ::: {.callout-note} 
@@ -46,7 +60,6 @@ published research. Ongoing work in this area of research includes developing me
   
   F. Freuli, L. Held and R. Heyard (2023). Replication Success Under Questionable Research Practices — a Simulation Study. Statistical Science. [https://doi.org/10.1214/23-STS904](https://doi.org/10.1214/23-STS904)
   
-  N. Turoman, R. Heyard, S. Schwab, E. Furrer, E. Vergauwe and L. Held (2023). Using an expert survey and user feedback to construct PRECHECK: A checklist to evaluate preprints on COVID-19 and beyond. F1000 Research. [https://doi.org/10.12688/f1000research.129814.3](https://doi.org/10.12688/f1000research.129814.3)
   ::::
   
 - **Explaining variation and heterogeneity in replication projects and in real world evidence emulations**
@@ -64,14 +77,19 @@ published research. Ongoing work in this area of research includes developing me
 ------ 
 
 ### Decision-making under uncertainty
-I previously, while working at the Swiss National Science Foundation, developed
+While working at  Swiss National Science Foundation, I (co-)developed
 a Bayesian ranking (BR) methodology to support decision-making in contexts where
 limited resources must be allocated under uncertainty. The method is useful not 
 only in the context of decision-making in research funding, but also for example
-when prioritising drugs or components for further development.
+when prioritising drugs or components for further development. More recently, I 
+became interested in the "degrees of freedom" funders have when designing a 
+funding call, which led to a collaborative project with T. Feliciani (see below).
 
 ::: {.callout-note} 
 ## Key publications and outputs
+
+R. Heyard, G. Chan and T. Feliciani (2026). Decision-making processes for research funding -- a review protocol. Protocol on Zenodo. <https://doi.org/10.5281/zenodo.19133106>
+
 R. Heyard, D. Pina, I. Buljan and A. Marusic (2025). Assessing the potential of a Bayesian ranking as an alternative to consensus meetings for decision making in research funding: A Case Study of Marie Skłodowska-Curie Actions. PLOS ONE.  [https://doi.org/10.1371/journal.pone.0317772](https://doi.org/10.1371/journal.pone.0317772)
 
 R. Heyard (2023). ERforResearch: Expected Rank for Research Evaluation. R package version 4.0.0. [https://github.com/snsf-data/ERforResearch](https://github.com/snsf-data/ERforResearch)
@@ -95,6 +113,8 @@ D. Crepaldi,  R. Heyard,  K. A. Nawrot, F. D. Sch\"{o}nbrodt et al (2025) On the
 R. Heyard, E. Furrer, L. Held, H. Würbel, E. Vergauwe and M. Ochsner (2024) Towards a comprehensive and community-accepted SNSF research output list. [https://osf.io/vgs4b](https://osf.io/vgs4b)
 
 E. Furrer, M. Ochsner, R. Heyard, C. Priboi, E. Vergauwe, H. Würbel and L. Held (2025). SIRRO Recommendations Open Science in Research Evaluation. [https://osf.io/gya3s](https://osf.io/gya3s)
+
+N. Turoman, R. Heyard, S. Schwab, E. Furrer, E. Vergauwe and L. Held (2023). Using an expert survey and user feedback to construct PRECHECK: A checklist to evaluate preprints on COVID-19 and beyond. F1000 Research. [https://doi.org/10.12688/f1000research.129814.3](https://doi.org/10.12688/f1000research.129814.3)
 
 R. Heyard, T. Philipp and H. Hottenrott (2021). Imaginary carrot or effective fertiliser? A rejoinder on funding and productivity. Scientometrics. [https://doi.org/10.1007/s11192-021-04130-7](https://doi.org/10.1007/s11192-021-04130-7)
 

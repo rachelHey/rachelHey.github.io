@@ -3,6 +3,7 @@ title: "Talks"
 page-layout: full
 ---
 
+
 | Date       | Event | Location  | Title | Slides |
 |------------|---------------|------------|-----------------------|----------------|
 | 07.07.2026 | Invited Talk - SORTEE webinar | online | Lotteries and innovations in research funding allocation | [osf.io/ujdah](https://osf.io/5txme/files/ujdah) |   

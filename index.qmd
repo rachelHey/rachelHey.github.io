@@ -19,6 +19,7 @@ about:
     - icon: mailbox
       text: Rachel Heyard
       href: mailto:rachel.heyard@uzh.ch
+page-layout: full
 ---
 
 ::: {#hero-heading} 
@@ -29,9 +30,9 @@ Director Meta-Science and Research at [FORRT](https://forrt.org/) (Framework for
 Vice-president of the [Swiss Statistical Society](https://stat.ch/en/)  
 Core team member of the [MERRI](https://merricollaboration.github.io/) (MEta-Research for Research Improvement) Collaboration  
 
-_Meta-researcher, Open Science Enthusiast, Reproducible Science Trainer, Statistician_
+Meta-researcher, Open Science Enthusiast, Reproducible Science Trainer, Statistician
 
-Cyclist, Book and Coffee lover, Studying _Italiano_
+Cyclist, Book and Coffee lover, Studying Italiano
 
 Swiss based 🇨🇭 - from Luxembourg 🇱🇺
 

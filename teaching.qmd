@@ -8,6 +8,19 @@ page-layout: full
 
 ---
 
+### EBPhD Methods seminar on reproducibility
+
+The properties of reproducibility and conducting research reproducibly are often taught as a list of principles rather than as a skill acquired through conduct. In this seminar students first build the conceptual vocabulary and a theoretical understanding of what computational reproducibility entails. They then apply and refine this understanding by attempting a computational reproduction of a published paper, i.e., re-running the analysis on the data and code the authors provided and verifying that the reported results agree. The reproductions will be synthesised into one manuscript and submitted to the diamond open-access journal Replication Research (R2); all students and instructors will be offered authorship. The design follows [Seibold et al. (2021)](https://doi.org/10.1371/journal.pone.0251194), whose master’s-level statistics course produced a published reproducibility study.
+
+::: {.callout-note} 
+## Material and website
+
+TBA (after the seminar)
+:::
+
+
+---
+
 ### Early Career Reviewers
 
 A training module, including a guide and a workshop developed for early career researchers to empower them in their journey to become a peer reviewer. 
@@ -28,6 +41,7 @@ R. Heyard and C. Martarelli (2025). A peer review workshop - First hands-on expe
 F. Logoz, C. Martarelli and R. Heyard (2024). A peer review guide - Empowering early career reviewers. [https://doi.org/10.17605/OSF.IO/T5WRH](https://doi.org/10.17605/OSF.IO/T5WRH)
 :::
 
+---
 
 ### Good research practices and open science
 I regularly teach a course at the UZH Graduate Campus on Good Research Practices for PhD Students and postdocs. I also co-developed a syllabus for an Open Science course. 
