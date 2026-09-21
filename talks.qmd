@@ -1,5 +1,6 @@
 ---
 title: "Talks"
+page-layout: full
 ---
 
 | Date       | Event | Location  | Title | Slides |

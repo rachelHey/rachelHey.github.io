@@ -6,25 +6,63 @@ project:
     - CNAME
 
       
+# website:
+#   title: "Rachel Heyard"
+#   sidebar:
+#     style: "docked"
+#     background: "#8cb1ce"
+#     contents:
+#       - href: index.qmd
+#         text: Home
+#       # - about.qmd
+#       - projects.qmd
+#       - teaching.qmd
+#       - talks.qmd
+# 
+# format:
+#   html:
+#     theme: minimal
+#     css: styles.css
+#     toc: true
+
 website:
   title: "Rachel Heyard"
-  sidebar:
-    style: "docked"
-    background: "#8cb1ce"
-    contents:
+  site-url: https://rachelheyard.com
+  description: "Meta-researcher and statistician at the University of Zurich"
+  open-graph: true
+  navbar:
+    background: "#ffffff"
+    foreground: "#2b2b2b"
+    collapse-below: md
+    right:
       - href: index.qmd
-        text: Home
-      # - about.qmd
-      - projects.qmd
-      - teaching.qmd
-      - talks.qmd
+        text: About
+      - href: projects.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: talks.qmd
+        text: Talks
+      - icon: github
+        href: https://github.com/rachelHey
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rachel-heyard-3145aa91/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:rachel.heyard@uzh.ch
+        aria-label: Email
+  page-footer:
+    border: false
+    center: "© 2026 Rachel Heyard · Built with [Quarto](https://quarto.org)"
 
 format:
   html:
-    theme: minimal
+    theme: default
     css: styles.css
-    toc: true
-
-
-# editor: visual
-
+    toc: false
+    linkcolor: "#3d6e94"
+    fontsize: 1rem
+    grid:
+      body-width: 760px
+    smooth-scroll: true

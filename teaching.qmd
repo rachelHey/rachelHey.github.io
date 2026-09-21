@@ -3,6 +3,9 @@ title: "Training activities"
 format: 
   html: 
     toc: false
+page-layout: full
+---
+
 ---
 
 ### Early Career Reviewers
@@ -27,7 +30,7 @@ F. Logoz, C. Martarelli and R. Heyard (2024). A peer review guide - Empowering e
 
 
 ### Good research practices and open science
-I regularly teach a course at the UZH Graduate Campus on Good Research Practices for PhD Students and postdocs. I also co-developed a sylabus for an Open Science course. 
+I regularly teach a course at the UZH Graduate Campus on Good Research Practices for PhD Students and postdocs. I also co-developed a syllabus for an Open Science course. 
 
 
 ::: {.callout-note} 
