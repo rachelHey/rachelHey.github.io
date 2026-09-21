@@ -1,1 +1,190 @@
-/* css styles */
+/* ==========================================================
+   Rachel Heyard – minimal site styles
+   ========================================================== */
+
+/* ---------- Fonts ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+/* ---------- Palette ---------- */
+:root {
+  --rh-accent: #8cb1ce;        /* light blue from the photo */
+  --rh-accent-dark: #3d6e94;   /* readable link colour */
+  --rh-text: #2b2b2b;
+  --rh-muted: #6b7280;
+  --rh-soft: #f5f8fb;          /* very light blue-grey background */
+  --rh-line: #e5e9ee;
+
+  --bs-body-font-family: 'Inter', Roboto, sans-serif;
+}
+
+body {
+  font-family: var(--bs-body-font-family);
+  color: var(--rh-text);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---------- Navbar ---------- */
+.navbar {
+  box-shadow: none !important;
+  border-bottom: 1px solid var(--rh-line);
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+}
+
+.navbar-title {
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.95rem;
+}
+
+.navbar .nav-link {
+  font-size: 0.9rem;
+  color: var(--rh-muted) !important;
+  transition: color 0.15s ease;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: var(--rh-accent-dark) !important;
+}
+
+/* ---------- Headings ---------- */
+h1, h2, h3, h4 {
+  font-weight: 600;
+  color: var(--rh-text);
+}
+
+/* Page titles */
+.quarto-title .title {
+  font-size: 1.9rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Section headings: small caps-style, like Priya's site */
+h3 {
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  color: var(--rh-accent-dark);
+}
+
+/* ---------- Links ---------- */
+a {
+  color: var(--rh-accent-dark);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+
+main a:hover {
+  border-bottom-color: var(--rh-accent);
+}
+
+/* ---------- Dividers (the ---- lines in projects.qmd) ---------- */
+hr {
+  border: 0;
+  border-top: 1px solid var(--rh-line);
+  opacity: 1;
+  margin: 2.5rem 0;
+}
+
+/* ---------- Callouts: flat, thin accent line ---------- */
+.callout {
+  border: none !important;
+  border-left: 3px solid var(--rh-accent) !important;
+  border-radius: 0 !important;
+  background-color: var(--rh-soft) !important;
+  box-shadow: none !important;
+  margin: 1rem 0 1.5rem 0;
+}
+
+.callout .callout-header {
+  background-color: transparent !important;
+  border: none !important;
+}
+
+.callout .callout-icon-container {
+  display: none;              /* drop the (i) icon for a cleaner look */
+}
+
+.callout .callout-title-container {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--rh-muted);
+}
+
+.callout .callout-body-container p {
+  font-size: 0.9rem;
+  margin-bottom: 0.75rem;
+}
+
+/* ---------- Home page (jolla about template) ---------- */
+#hero-heading h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+#hero-heading p {
+  color: var(--rh-muted);
+  font-size: 0.95rem;
+}
+
+#hero-heading em {
+  color: var(--rh-text);
+}
+
+.quarto-about-jolla .about-image {
+  border: 4px solid var(--rh-soft);
+  margin-bottom: 1.5rem;
+}
+
+/* If you keep the link buttons under the photo */
+.quarto-about-jolla .about-link {
+  border: 1px solid var(--rh-line) !important;
+  border-radius: 999px;
+  color: var(--rh-muted) !important;
+  font-size: 0.85rem;
+}
+
+.quarto-about-jolla .about-link:hover {
+  border-color: var(--rh-accent) !important;
+  color: var(--rh-accent-dark) !important;
+}
+
+/* ---------- Tables (talks page) ---------- */
+table {
+  font-size: 1rem;
+  border-collapse: collapse;
+}
+
+table thead th {
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.9rem;
+  color: var(--rh-muted);
+  border-bottom: 1px solid var(--rh-accent) !important;
+}
+
+table td {
+  border-top: 1px solid var(--rh-line) !important;
+  padding: 0.6rem 0.5rem !important;
+  vertical-align: top;
+}
+
+table tbody tr:hover {
+  background-color: var(--rh-soft);
+}
+
+/* ---------- Footer ---------- */
+.nav-footer {
+  font-size: 0.8rem;
+  color: var(--rh-muted);
+  background: transparent;
+}
