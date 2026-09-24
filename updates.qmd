@@ -10,21 +10,23 @@ page-layout: full
 
 ### September 2026
 
-- Am about to start teaching the EBPhD [methods seminar on computational reproducibility](https://methods-seminar-computational-reproducibility-7171ac.pages.uzh.ch/) at the University of Zurich.
-- Was on holiday in Slovenia (5--14 Sep), with lots of gravel biking. 🚴
+- I am about to start teaching the EBPhD [methods seminar on computational reproducibility](https://methods-seminar-computational-reproducibility-7171ac.pages.uzh.ch/) at the University of Zurich.
+- Holiday in Slovenia (5--14 Sep), with lots of gravel biking. 🚴
 - We uploaded the revised version of our [CORTRE](https://cortre.github.io/index.html) Registered Report (currently pending moderation) and will resubmit it to PCI Registered Report.
 
 ### August 2026
 
-- Attended the [MSMR](https://crsuzh.pages.uzh.ch/msmr/) in Zurich (31 Aug -- 1 Sep).
-- Was an instructor at the [Meta-Science Summer School](https://www.bihealth.org/en/notices/meta-science-summer-school-designing-and-conducting-studies-to-improve-research-1) near Frankfurt (24 -- 28 Aug).
+- I attended the [MSMR](https://crsuzh.pages.uzh.ch/msmr/) in Zurich (31 Aug -- 1 Sep).
+- I was an instructor at the [Meta-Science Summer School](https://www.bihealth.org/en/notices/meta-science-summer-school-designing-and-conducting-studies-to-improve-research-1) near Frankfurt (24 -- 28 Aug).
 - We submitted the first milestone of the [INSPECT project](https://crsuzh.pages.uzh.ch/inspect/) (15 Aug).
-- Was interviewed for a *Nature* career feature on lotteries in research funding: [When the best decision is no decision: the rise of randomization in grant funding](https://www.nature.com/articles/d41586-026-02082-7) (11 Aug).
+- I was interviewed for a *Nature* career feature on lotteries in research funding: [When the best decision is no decision: the rise of randomization in grant funding](https://www.nature.com/articles/d41586-026-02082-7) (11 Aug).  
+- **New paper:** Our paper "Evaluating the applicability of replication success metrics in animal-to-human translation: A simulation study" was just published in eLife; <https://doi.org/10.7554/eLife.109853.3>.  
 
 ### July 2026
 
-- Together with my CoARA working group colleagues F. Schönbrodt, K. A. Nawrot and D. Crepaldi, we published a poster and booklet on [The structure and formative dimensions of research excellence](https://doi.org/10.5281/zenodo.21670038).
-- Our EU WIDERA application, which I coordinated, was not funded. A big bummer, but on to the next one!
+- Together with my CoARA working group colleagues F. Schönbrodt, K. A. Nawrot and D. Crepaldi, we published a poster and booklet on *The structure and formative dimensions of research excellence* >https://doi.org/10.5281/zenodo.21670038>.
+- *Rejection:* Our EU WIDERA application, which I coordinated, was not funded. A big bummer, but on to the next one!  
+- **Award:** The [ECR Reviewers Platform](https://ecr-reviewers.gitlab.io/guide/#acknowledgments) received a Commendation from the [Society for the Improvement of Psychological Science](https://improvingpsych.org/).
 
 ### June 2026
 
