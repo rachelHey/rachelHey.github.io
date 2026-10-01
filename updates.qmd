@@ -17,6 +17,7 @@ page-layout: full
 - I am about to start teaching the EBPhD [methods seminar on computational reproducibility](https://methods-seminar-computational-reproducibility-7171ac.pages.uzh.ch/) at the University of Zurich.
 - We started our public lecture series "Fake Science". More information on <https://crsuzh.pages.uzh.ch/fake-science/>.  
 - Holiday in Slovenia (5--14 Sep), with lots of gravel biking. 🚴
+
 ### August 2026
 
 - I attended the [MSMR](https://crsuzh.pages.uzh.ch/msmr/) in Zurich (31 Aug -- 1 Sep).
