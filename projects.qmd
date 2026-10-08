@@ -39,7 +39,7 @@ published research. Ongoing work in this area of research includes developing me
   ::: {.callout-note} 
   ## Key publications
 
-  R. Heyard, M. Pittelkow, P. Silverstein, O. B. Amaral, S. Gordon, M. Wasylewski and F. Molo (2026). COmplete Reporting for Transparent Reproducibility Efforts (CORTRE): a reporting guideline [Stage 1 Registered Report]. MetaArxiv. <https://doi.org/10.31222/osf.io/6wj82_v1>
+  R. Heyard, M.-M. Pittelkow, P. Silverstein, O. B. Amaral, S. Gordon, M. Wasylewski,and F. Molo (2026). COmplete Reporting for Transparent Reproducibility Efforts (CORTRE): a reporting guideline [Stage 1 Registered Report]. In principle acceptance of Version 2 by Peer Community in Registered Reports. <https://osf.io/n4k58>
   :::
 
 - **DREAMR / Table 1 project** -- With this project, we aim to propose a standard sample characteristics table structure for studies performed on research papers (i.e., meta-research).
@@ -76,7 +76,7 @@ published research. Ongoing work in this area of research includes developing me
 
 ------ 
 
-### Decision-making under uncertainty
+### Decision-making under uncertainty and funding lotteries
 While working at  Swiss National Science Foundation, I (co-)developed
 a Bayesian ranking (BR) methodology to support decision-making in contexts where
 limited resources must be allocated under uncertainty. The method is useful not 
@@ -87,6 +87,8 @@ funding call, which led to a collaborative project with T. Feliciani (see below)
 
 ::: {.callout-note} 
 ## Key publications and outputs
+
+R. Heyard, H. Wnfried Ramirez, B. Jann, D. Rohner, L. Held, and M. Egger (2026). Lottery funding and academic career outcomes: a randomized natural experiment at the Swiss National Science Foundation. Zenodo. <https://doi.org/10.5281/zenodo.23189200>
 
 R. Heyard, G. Chan and T. Feliciani (2026). Decision-making processes for research funding -- a review protocol. Protocol on Zenodo. <https://doi.org/10.5281/zenodo.19133106>
 

@@ -9,7 +9,10 @@ page-layout: full
 ---
 
 ### October 2026
-- Our Stage 1 Registered Report "COmplete Reporting for Transparent Reproducibility Efforts (CORTRE): a reporting guideline" was granted in-principle acceptance by *Peer Community in Registered Reports*, see <https://doi.org/10.17605/OSF.IO/N4K58>.
+
+- We just submitted our Stage 1 Registered Report "Lottery funding and academic career outcomes: a randomized natural experiment at the Swiss National Science Foundation" to PCI RR. The preprint is available under <https://doi.org/10.5281/zenodo.23189200>.
+
+- Our Stage 1 Registered Report "COmplete Reporting for Transparent Reproducibility Efforts (CORTRE): a reporting guideline" was granted in-principle acceptance by *Peer Community in Registered Reports*, see [here](https://rr.peercommunityin.org/PCIRegisteredReports/articles/rec?id=2263).
 
 
 ### September 2026
