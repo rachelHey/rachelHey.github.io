@@ -10,7 +10,11 @@ page-layout: full
 
 ### October 2026
 
-- We just submitted our Stage 1 Registered Report "Lottery funding and academic career outcomes: a randomized natural experiment at the Swiss National Science Foundation" to PCI RR. The preprint is available under <https://doi.org/10.5281/zenodo.23189200>.
+- **New publication**: Our Registered Report on the efficacy of statistical and design interventions for improving reproducibility in biomedical research is now published in *BMC Biology*, see <https://doi.org/10.1186/s12915-026-02771-9>
+
+- **Preprint**: We just submitted our the first paper coming out of the INSPECT project to *BMC Trials*. The preprint is available on MetaArxiv, see <https://doi.org/10.31222/osf.io/d5hsu_v1>.
+
+- **Preprint**: We just submitted our Stage 1 Registered Report "Lottery funding and academic career outcomes: a randomized natural experiment at the Swiss National Science Foundation" to PCI RR. The preprint is available under <https://doi.org/10.5281/zenodo.23189200>.
 
 - Our Stage 1 Registered Report "COmplete Reporting for Transparent Reproducibility Efforts (CORTRE): a reporting guideline" was granted in-principle acceptance by *Peer Community in Registered Reports*, see [here](https://rr.peercommunityin.org/PCIRegisteredReports/articles/rec?id=2263).
 

@@ -20,6 +20,8 @@ published research. Ongoing work in this area of research includes developing me
   ::: {.callout-note} 
   ## Key publications
 
+  B. Voelkl, R. Heyard, L. Caquelin et al. Efficacy of statistical and design interventions for improving reproducibility in biomedical research. BMC Biol (2026). <https://doi.org/10.1186/s12915-026-02771-9>
+  
   C. J. Huang, S. Pawel, K. E. Wever, B. V. Ineichen and R. Heyard (2026). Evaluating the applicability of replication success metrics in animal-to-human translation: A simulation study. eLife. [https://doi.org/10.7554/eLife.109853.1](https://doi.org/10.7554/eLife.109853.1)
   
   R. Heyard, S. Pawel, J. Frese, B. Voelkl, H. Würbel, S. McCann, L. Held, K. E. Wever, H. Hartmann, L. Townsin and S. Zellers (2025) A scoping review on metrics to quantify reproducibility: a multitude of questions leads to a multitude of metrics. Royal Society Open Science. [https://doi.org/10.1098/rsos.242076](https://doi.org/10.1098/rsos.242076)
@@ -29,9 +31,9 @@ published research. Ongoing work in this area of research includes developing me
 - **INSPECT: Identifying Non-obvious Signals in Protocols for Early Credibility Threats** -- This project will examine whether it is possible to identify potential red flags for questionable research practices (QRPs) and potential scientific misconduct from clinical trial protocols or statistical analysis plans. I am the PI of this project, which is further described [here](https://www.crs.uzh.ch/en/news/2026-News/INSPECT--Identifying-Non-obvious-Signals-in-Protocols-for-Early-Credibility-Threats.html).     
 
   ::: {.callout-note} 
-  ## Protocol for our rapid review
+  ## Key publication available as preprint
 
-  A. Rojas Mora, P.M. Degen, L. Held, U. Held and R. Heyard (2025) Identifying questionable research practices and types of misconduct during the planning phase of clinical trials: a rapid review. OSF. [https://osf.io/29b3f](https://osf.io/29b3f)
+  Rojas Mora A., H. Wnfried Ramirez, P.M. Degen, U. Held, L. Held, & R. Heyard (2026). Identifying questionable research practices during the planning phase of clinical trials: A rapid review and expert survey. MetaArXiv. <https://doi.org/10.31222/osf.io/d5hsu_v1>
   :::
 
 - **CORTRE -- COmplete Reporting for Transparent Reproducibility Efforts** -- This project aims to develop a consensus-based reporting guideline for large-scale “meta-studies” that investigate reproducibility, replicability, robustness, generalisability, or related concepts. More information is available on the [project website](https://cortre.github.io/index.html).
