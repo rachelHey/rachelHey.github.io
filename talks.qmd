@@ -6,6 +6,7 @@ page-layout: full
 
 | Date       | Event | Location  | Title | Slides |
 |------------|---------------|------------|-----------------------|----------------|
+| 10.11.2026 | Lecture - [Fake Science -- Isolated Cases or a Systemic Problem?](https://crsuzh.pages.uzh.ch/fake-science/) | Zurich (CH) | Studying the Research System: Metaresearch, Incentives, and Research Assessment Reform | [slides](http://rachelheyard.com/talks/fakescience) | 
 | 07.07.2026 | Invited Talk - SORTEE webinar | online | Lotteries and innovations in research funding allocation | [osf.io/ujdah](https://osf.io/5txme/files/ujdah) |   
 | 23.04.2026 | Invited Lecture - Interdisciplinary Data Science Lecture Series | Bern (CH) | Data science and visualisation for evidence‑based science policy | [osf.io/8nhrj](https://osf.io/5txme/files/8nhrj) | 
 | 30.01.2026 | Keynote - Research on Research Event 2026 | Zurich (CH) | Designing Better Research Systems: How Research on Research informs science policy and assessment reform | [zenodo.org/records/19591331](https://zenodo.org/records/19591331?preview_file=Presentation_Heyard.pdf) | 

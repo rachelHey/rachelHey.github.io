@@ -8,9 +8,15 @@ page-layout: full
 
 ---
 
+### November 2026
+
+- I gave a lecture on lecture in our public lecture series on Fake Science, entitled "Studying the Research System: Metaresearch, Incentives, and Research Assessment Reform". The slides are available [here](http://rachelheyard.com/talks/fakescience).
+- I spent a week in Rome to improve my *Italiano*. 
+
+
 ### October 2026
 
-- **New publication**: Our Registered Report on the efficacy of statistical and design interventions for improving reproducibility in biomedical research is now published in *BMC Biology*, see <https://doi.org/10.1186/s12915-026-02771-9>
+- **New publication**: Our Registered Report on the efficacy of statistical and design interventions for improving reproducibility in Biomedical research is now published in *BMC Biology*, see <https://doi.org/10.1186/s12915-026-02771-9>
 
 - **Preprint**: We just submitted our the first paper coming out of the INSPECT project to *BMC Trials*. The preprint is available on MetaArxiv, see <https://doi.org/10.31222/osf.io/d5hsu_v1>.
 
